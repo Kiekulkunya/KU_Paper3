@@ -1,0 +1,25 @@
+Region,Country,NO₂ Mean (mol/m²),SO₂ Mean (mol/m²)
+North America,United States,2.1366e-05,8.3693e-05
+Europe,Germany,4.8480e-05,2.9669e-04
+Europe,France,2.8118e-05,1.9674e-04
+Europe,Italy,3.4191e-05,1.3033e-04
+Europe,Spain,2.2027e-05,1.4141e-04
+Europe,Portugal,2.2716e-05,1.5587e-04
+Europe,Denmark,3.1578e-05,3.2764e-04
+Europe,Netherlands,6.8869e-05,2.7862e-04
+Europe,Sweden,1.2003e-05,2.2942e-04
+Europe,Austria,2.8874e-05,1.7098e-04
+Europe,Belgium,6.3260e-05,2.9953e-04
+Europe,Hungary,3.1955e-05,2.9154e-04
+Europe,Romania,2.1675e-05,2.1943e-04
+Europe,United Kingdom,3.5196e-05,2.7667e-04
+Asia-Pacific,Japan,2.8045e-05,5.9600e-05
+Emerging Markets,China,2.4426e-05,8.0768e-05
+Emerging Markets,India,3.5432e-05,8.5616e-05
+Emerging Markets,Indonesia,9.8406e-06,7.2682e-06
+Emerging Markets,Thailand,2.8604e-05,7.8575e-06
+Emerging Markets,Vietnam,3.2016e-05,8.2897e-06
+Emerging Markets,Philippines,1.4212e-05,3.0656e-05
+Emerging Markets,Mexico,1.5406e-05,5.2769e-05
+Emerging Markets,Peru,6.7171e-06,7.6038e-07
+Emerging Markets,Brazil,8.5931e-06,5.2680e-06
