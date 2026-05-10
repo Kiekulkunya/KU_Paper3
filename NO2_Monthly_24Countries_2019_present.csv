@@ -1,0 +1,2113 @@
+Year_Month,Year,Month,Region,Country,NO2_mean_mol_m2
+2019-01,2019,1,Europe,Austria,3.89E-05
+2019-02,2019,2,Europe,Austria,4.14E-05
+2019-03,2019,3,Europe,Austria,2.97E-05
+2019-04,2019,4,Europe,Austria,2.54E-05
+2019-05,2019,5,Europe,Austria,2.44E-05
+2019-06,2019,6,Europe,Austria,2.10E-05
+2019-07,2019,7,Europe,Austria,2.08E-05
+2019-08,2019,8,Europe,Austria,2.15E-05
+2019-09,2019,9,Europe,Austria,2.82E-05
+2019-10,2019,10,Europe,Austria,3.36E-05
+2019-11,2019,11,Europe,Austria,3.06E-05
+2019-12,2019,12,Europe,Austria,3.40E-05
+2020-01,2020,1,Europe,Austria,4.26E-05
+2020-02,2020,2,Europe,Austria,3.15E-05
+2020-03,2020,3,Europe,Austria,2.49E-05
+2020-04,2020,4,Europe,Austria,2.35E-05
+2020-05,2020,5,Europe,Austria,2.15E-05
+2020-06,2020,6,Europe,Austria,1.92E-05
+2020-07,2020,7,Europe,Austria,1.84E-05
+2020-08,2020,8,Europe,Austria,2.13E-05
+2020-09,2020,9,Europe,Austria,2.79E-05
+2020-10,2020,10,Europe,Austria,2.84E-05
+2020-11,2020,11,Europe,Austria,3.09E-05
+2020-12,2020,12,Europe,Austria,3.59E-05
+2021-01,2021,1,Europe,Austria,4.07E-05
+2021-02,2021,2,Europe,Austria,3.12E-05
+2021-03,2021,3,Europe,Austria,3.15E-05
+2021-04,2021,4,Europe,Austria,2.76E-05
+2021-05,2021,5,Europe,Austria,2.06E-05
+2021-06,2021,6,Europe,Austria,1.99E-05
+2021-07,2021,7,Europe,Austria,1.82E-05
+2021-08,2021,8,Europe,Austria,1.94E-05
+2021-09,2021,9,Europe,Austria,2.68E-05
+2021-10,2021,10,Europe,Austria,3.53E-05
+2021-11,2021,11,Europe,Austria,4.27E-05
+2021-12,2021,12,Europe,Austria,4.59E-05
+2022-01,2022,1,Europe,Austria,4.53E-05
+2022-02,2022,2,Europe,Austria,3.62E-05
+2022-03,2022,3,Europe,Austria,3.09E-05
+2022-04,2022,4,Europe,Austria,2.59E-05
+2022-05,2022,5,Europe,Austria,2.28E-05
+2022-06,2022,6,Europe,Austria,2.22E-05
+2022-07,2022,7,Europe,Austria,2.06E-05
+2022-08,2022,8,Europe,Austria,2.11E-05
+2022-09,2022,9,Europe,Austria,2.67E-05
+2022-10,2022,10,Europe,Austria,3.36E-05
+2022-11,2022,11,Europe,Austria,3.72E-05
+2022-12,2022,12,Europe,Austria,2.95E-05
+2023-01,2023,1,Europe,Austria,3.30E-05
+2023-02,2023,2,Europe,Austria,3.20E-05
+2023-03,2023,3,Europe,Austria,3.52E-05
+2023-04,2023,4,Europe,Austria,2.64E-05
+2023-05,2023,5,Europe,Austria,2.30E-05
+2023-06,2023,6,Europe,Austria,2.28E-05
+2023-07,2023,7,Europe,Austria,1.93E-05
+2023-08,2023,8,Europe,Austria,2.39E-05
+2023-09,2023,9,Europe,Austria,2.88E-05
+2023-10,2023,10,Europe,Austria,3.00E-05
+2023-11,2023,11,Europe,Austria,2.81E-05
+2023-12,2023,12,Europe,Austria,3.72E-05
+2024-01,2024,1,Europe,Austria,2.89E-05
+2024-02,2024,2,Europe,Austria,2.74E-05
+2024-03,2024,3,Europe,Austria,2.32E-05
+2024-04,2024,4,Europe,Austria,2.25E-05
+2024-05,2024,5,Europe,Austria,2.15E-05
+2024-06,2024,6,Europe,Austria,2.04E-05
+2024-07,2024,7,Europe,Austria,1.76E-05
+2024-08,2024,8,Europe,Austria,2.48E-05
+2024-09,2024,9,Europe,Austria,2.55E-05
+2024-10,2024,10,Europe,Austria,3.18E-05
+2024-11,2024,11,Europe,Austria,4.10E-05
+2024-12,2024,12,Europe,Austria,4.29E-05
+2025-01,2025,1,Europe,Austria,3.79E-05
+2025-02,2025,2,Europe,Austria,3.48E-05
+2025-03,2025,3,Europe,Austria,3.27E-05
+2025-04,2025,4,Europe,Austria,2.67E-05
+2025-05,2025,5,Europe,Austria,2.41E-05
+2025-06,2025,6,Europe,Austria,2.32E-05
+2025-07,2025,7,Europe,Austria,2.21E-05
+2025-08,2025,8,Europe,Austria,2.35E-05
+2025-09,2025,9,Europe,Austria,2.68E-05
+2025-10,2025,10,Europe,Austria,3.24E-05
+2025-11,2025,11,Europe,Austria,4.01E-05
+2025-12,2025,12,Europe,Austria,3.99E-05
+2026-01,2026,1,Europe,Austria,3.92E-05
+2026-02,2026,2,Europe,Austria,3.40E-05
+2026-03,2026,3,Europe,Austria,2.83E-05
+2026-04,2026,4,Europe,Austria,2.70E-05
+2019-01,2019,1,Europe,Belgium,6.10E-05
+2019-02,2019,2,Europe,Belgium,7.48E-05
+2019-03,2019,3,Europe,Belgium,6.93E-05
+2019-04,2019,4,Europe,Belgium,8.70E-05
+2019-05,2019,5,Europe,Belgium,7.28E-05
+2019-06,2019,6,Europe,Belgium,4.04E-05
+2019-07,2019,7,Europe,Belgium,4.49E-05
+2019-08,2019,8,Europe,Belgium,4.69E-05
+2019-09,2019,9,Europe,Belgium,5.58E-05
+2019-10,2019,10,Europe,Belgium,7.01E-05
+2019-11,2019,11,Europe,Belgium,6.00E-05
+2019-12,2019,12,Europe,Belgium,6.54E-05
+2020-01,2020,1,Europe,Belgium,4.92E-05
+2020-02,2020,2,Europe,Belgium,5.01E-05
+2020-03,2020,3,Europe,Belgium,6.16E-05
+2020-04,2020,4,Europe,Belgium,5.97E-05
+2020-05,2020,5,Europe,Belgium,5.42E-05
+2020-06,2020,6,Europe,Belgium,3.46E-05
+2020-07,2020,7,Europe,Belgium,3.50E-05
+2020-08,2020,8,Europe,Belgium,4.01E-05
+2020-09,2020,9,Europe,Belgium,6.73E-05
+2020-10,2020,10,Europe,Belgium,3.88E-05
+2020-11,2020,11,Europe,Belgium,6.66E-05
+2020-12,2020,12,Europe,Belgium,5.30E-05
+2021-01,2021,1,Europe,Belgium,8.82E-05
+2021-02,2021,2,Europe,Belgium,6.99E-05
+2021-03,2021,3,Europe,Belgium,8.57E-05
+2021-04,2021,4,Europe,Belgium,9.76E-05
+2021-05,2021,5,Europe,Belgium,5.27E-05
+2021-06,2021,6,Europe,Belgium,4.83E-05
+2021-07,2021,7,Europe,Belgium,3.85E-05
+2021-08,2021,8,Europe,Belgium,4.01E-05
+2021-09,2021,9,Europe,Belgium,6.47E-05
+2021-10,2021,10,Europe,Belgium,7.64E-05
+2021-11,2021,11,Europe,Belgium,7.93E-05
+2021-12,2021,12,Europe,Belgium,7.73E-05
+2022-01,2022,1,Europe,Belgium,0.000102677
+2022-02,2022,2,Europe,Belgium,5.85E-05
+2022-03,2022,3,Europe,Belgium,9.77E-05
+2022-04,2022,4,Europe,Belgium,7.25E-05
+2022-05,2022,5,Europe,Belgium,5.26E-05
+2022-06,2022,6,Europe,Belgium,4.72E-05
+2022-07,2022,7,Europe,Belgium,4.41E-05
+2022-08,2022,8,Europe,Belgium,5.49E-05
+2022-09,2022,9,Europe,Belgium,5.52E-05
+2022-10,2022,10,Europe,Belgium,5.98E-05
+2022-11,2022,11,Europe,Belgium,6.08E-05
+2022-12,2022,12,Europe,Belgium,0.00010592
+2023-01,2023,1,Europe,Belgium,6.56E-05
+2023-02,2023,2,Europe,Belgium,7.88E-05
+2023-03,2023,3,Europe,Belgium,6.80E-05
+2023-04,2023,4,Europe,Belgium,7.08E-05
+2023-05,2023,5,Europe,Belgium,6.20E-05
+2023-06,2023,6,Europe,Belgium,5.31E-05
+2023-07,2023,7,Europe,Belgium,3.24E-05
+2023-08,2023,8,Europe,Belgium,3.95E-05
+2023-09,2023,9,Europe,Belgium,5.14E-05
+2023-10,2023,10,Europe,Belgium,5.39E-05
+2023-11,2023,11,Europe,Belgium,5.19E-05
+2023-12,2023,12,Europe,Belgium,6.11E-05
+2024-01,2024,1,Europe,Belgium,8.48E-05
+2024-02,2024,2,Europe,Belgium,4.53E-05
+2024-03,2024,3,Europe,Belgium,5.23E-05
+2024-04,2024,4,Europe,Belgium,4.23E-05
+2024-05,2024,5,Europe,Belgium,4.76E-05
+2024-06,2024,6,Europe,Belgium,4.17E-05
+2024-07,2024,7,Europe,Belgium,3.24E-05
+2024-08,2024,8,Europe,Belgium,3.94E-05
+2024-09,2024,9,Europe,Belgium,5.41E-05
+2024-10,2024,10,Europe,Belgium,6.71E-05
+2024-11,2024,11,Europe,Belgium,7.56E-05
+2024-12,2024,12,Europe,Belgium,5.97E-05
+2025-01,2025,1,Europe,Belgium,7.59E-05
+2025-02,2025,2,Europe,Belgium,8.29E-05
+2025-03,2025,3,Europe,Belgium,7.70E-05
+2025-04,2025,4,Europe,Belgium,7.62E-05
+2025-05,2025,5,Europe,Belgium,5.82E-05
+2025-06,2025,6,Europe,Belgium,4.25E-05
+2025-07,2025,7,Europe,Belgium,4.05E-05
+2025-08,2025,8,Europe,Belgium,4.54E-05
+2025-09,2025,9,Europe,Belgium,4.49E-05
+2025-10,2025,10,Europe,Belgium,5.53E-05
+2025-11,2025,11,Europe,Belgium,6.93E-05
+2025-12,2025,12,Europe,Belgium,6.12E-05
+2026-01,2026,1,Europe,Belgium,6.74E-05
+2026-02,2026,2,Europe,Belgium,4.38E-05
+2026-03,2026,3,Europe,Belgium,6.77E-05
+2026-04,2026,4,Europe,Belgium,6.88E-05
+2019-01,2019,1,Emerging Markets,Brazil,1.01E-05
+2019-02,2019,2,Emerging Markets,Brazil,9.32E-06
+2019-03,2019,3,Emerging Markets,Brazil,8.11E-06
+2019-04,2019,4,Emerging Markets,Brazil,7.39E-06
+2019-05,2019,5,Emerging Markets,Brazil,7.28E-06
+2019-06,2019,6,Emerging Markets,Brazil,7.42E-06
+2019-07,2019,7,Emerging Markets,Brazil,9.35E-06
+2019-08,2019,8,Emerging Markets,Brazil,1.45E-05
+2019-09,2019,9,Emerging Markets,Brazil,1.77E-05
+2019-10,2019,10,Emerging Markets,Brazil,1.25E-05
+2019-11,2019,11,Emerging Markets,Brazil,1.05E-05
+2019-12,2019,12,Emerging Markets,Brazil,9.56E-06
+2020-01,2020,1,Emerging Markets,Brazil,8.96E-06
+2020-02,2020,2,Emerging Markets,Brazil,8.46E-06
+2020-03,2020,3,Emerging Markets,Brazil,7.65E-06
+2020-04,2020,4,Emerging Markets,Brazil,6.91E-06
+2020-05,2020,5,Emerging Markets,Brazil,6.36E-06
+2020-06,2020,6,Emerging Markets,Brazil,6.78E-06
+2020-07,2020,7,Emerging Markets,Brazil,9.54E-06
+2020-08,2020,8,Emerging Markets,Brazil,1.44E-05
+2020-09,2020,9,Emerging Markets,Brazil,1.90E-05
+2020-10,2020,10,Emerging Markets,Brazil,1.34E-05
+2020-11,2020,11,Emerging Markets,Brazil,8.97E-06
+2020-12,2020,12,Emerging Markets,Brazil,9.99E-06
+2021-01,2021,1,Emerging Markets,Brazil,9.49E-06
+2021-02,2021,2,Emerging Markets,Brazil,7.82E-06
+2021-03,2021,3,Emerging Markets,Brazil,7.81E-06
+2021-04,2021,4,Emerging Markets,Brazil,7.47E-06
+2021-05,2021,5,Emerging Markets,Brazil,7.45E-06
+2021-06,2021,6,Emerging Markets,Brazil,8.42E-06
+2021-07,2021,7,Emerging Markets,Brazil,1.06E-05
+2021-08,2021,8,Emerging Markets,Brazil,1.80E-05
+2021-09,2021,9,Emerging Markets,Brazil,2.02E-05
+2021-10,2021,10,Emerging Markets,Brazil,1.32E-05
+2021-11,2021,11,Emerging Markets,Brazil,9.25E-06
+2021-12,2021,12,Emerging Markets,Brazil,9.22E-06
+2022-01,2022,1,Emerging Markets,Brazil,9.54E-06
+2022-02,2022,2,Emerging Markets,Brazil,8.77E-06
+2022-03,2022,3,Emerging Markets,Brazil,8.27E-06
+2022-04,2022,4,Emerging Markets,Brazil,7.21E-06
+2022-05,2022,5,Emerging Markets,Brazil,6.86E-06
+2022-06,2022,6,Emerging Markets,Brazil,8.71E-06
+2022-07,2022,7,Emerging Markets,Brazil,1.01E-05
+2022-08,2022,8,Emerging Markets,Brazil,1.87E-05
+2022-09,2022,9,Emerging Markets,Brazil,2.02E-05
+2022-10,2022,10,Emerging Markets,Brazil,1.26E-05
+2022-11,2022,11,Emerging Markets,Brazil,8.46E-06
+2022-12,2022,12,Emerging Markets,Brazil,9.35E-06
+2023-01,2023,1,Emerging Markets,Brazil,8.96E-06
+2023-02,2023,2,Emerging Markets,Brazil,8.58E-06
+2023-03,2023,3,Emerging Markets,Brazil,8.29E-06
+2023-04,2023,4,Emerging Markets,Brazil,7.25E-06
+2023-05,2023,5,Emerging Markets,Brazil,7.10E-06
+2023-06,2023,6,Emerging Markets,Brazil,8.23E-06
+2023-07,2023,7,Emerging Markets,Brazil,1.02E-05
+2023-08,2023,8,Emerging Markets,Brazil,1.48E-05
+2023-09,2023,9,Emerging Markets,Brazil,1.83E-05
+2023-10,2023,10,Emerging Markets,Brazil,1.32E-05
+2023-11,2023,11,Emerging Markets,Brazil,1.16E-05
+2023-12,2023,12,Emerging Markets,Brazil,1.08E-05
+2024-01,2024,1,Emerging Markets,Brazil,9.64E-06
+2024-02,2024,2,Emerging Markets,Brazil,7.81E-06
+2024-03,2024,3,Emerging Markets,Brazil,8.44E-06
+2024-04,2024,4,Emerging Markets,Brazil,7.37E-06
+2024-05,2024,5,Emerging Markets,Brazil,6.63E-06
+2024-06,2024,6,Emerging Markets,Brazil,7.48E-06
+2024-07,2024,7,Emerging Markets,Brazil,1.10E-05
+2024-08,2024,8,Emerging Markets,Brazil,1.76E-05
+2024-09,2024,9,Emerging Markets,Brazil,2.32E-05
+2024-10,2024,10,Emerging Markets,Brazil,1.45E-05
+2024-11,2024,11,Emerging Markets,Brazil,1.12E-05
+2024-12,2024,12,Emerging Markets,Brazil,9.54E-06
+2025-01,2025,1,Emerging Markets,Brazil,9.26E-06
+2025-02,2025,2,Emerging Markets,Brazil,8.56E-06
+2025-03,2025,3,Emerging Markets,Brazil,8.03E-06
+2025-04,2025,4,Emerging Markets,Brazil,7.20E-06
+2025-05,2025,5,Emerging Markets,Brazil,6.95E-06
+2025-06,2025,6,Emerging Markets,Brazil,8.04E-06
+2025-07,2025,7,Emerging Markets,Brazil,1.05E-05
+2025-08,2025,8,Emerging Markets,Brazil,1.48E-05
+2025-09,2025,9,Emerging Markets,Brazil,1.73E-05
+2025-10,2025,10,Emerging Markets,Brazil,1.30E-05
+2025-11,2025,11,Emerging Markets,Brazil,1.03E-05
+2025-12,2025,12,Emerging Markets,Brazil,1.01E-05
+2026-01,2026,1,Emerging Markets,Brazil,9.89E-06
+2026-02,2026,2,Emerging Markets,Brazil,9.32E-06
+2026-03,2026,3,Emerging Markets,Brazil,8.78E-06
+2026-04,2026,4,Emerging Markets,Brazil,7.84E-06
+2019-01,2019,1,Emerging Markets,China,7.23E-05
+2019-02,2019,2,Emerging Markets,China,4.18E-05
+2019-03,2019,3,Emerging Markets,China,4.10E-05
+2019-04,2019,4,Emerging Markets,China,3.92E-05
+2019-05,2019,5,Emerging Markets,China,3.32E-05
+2019-06,2019,6,Emerging Markets,China,2.98E-05
+2019-07,2019,7,Emerging Markets,China,2.62E-05
+2019-08,2019,8,Emerging Markets,China,2.30E-05
+2019-09,2019,9,Emerging Markets,China,2.89E-05
+2019-10,2019,10,Emerging Markets,China,4.27E-05
+2019-11,2019,11,Emerging Markets,China,5.58E-05
+2019-12,2019,12,Emerging Markets,China,6.22E-05
+2020-01,2020,1,Emerging Markets,China,5.20E-05
+2020-02,2020,2,Emerging Markets,China,2.76E-05
+2020-03,2020,3,Emerging Markets,China,3.58E-05
+2020-04,2020,4,Emerging Markets,China,3.63E-05
+2020-05,2020,5,Emerging Markets,China,3.10E-05
+2020-06,2020,6,Emerging Markets,China,3.10E-05
+2020-07,2020,7,Emerging Markets,China,2.39E-05
+2020-08,2020,8,Emerging Markets,China,2.30E-05
+2020-09,2020,9,Emerging Markets,China,2.65E-05
+2020-10,2020,10,Emerging Markets,China,4.93E-05
+2020-11,2020,11,Emerging Markets,China,5.74E-05
+2020-12,2020,12,Emerging Markets,China,0.000129201
+2021-01,2021,1,Emerging Markets,China,9.53E-05
+2021-02,2021,2,Emerging Markets,China,5.28E-05
+2021-03,2021,3,Emerging Markets,China,4.61E-05
+2021-04,2021,4,Emerging Markets,China,3.63E-05
+2021-05,2021,5,Emerging Markets,China,3.34E-05
+2021-06,2021,6,Emerging Markets,China,3.11E-05
+2021-07,2021,7,Emerging Markets,China,2.73E-05
+2021-08,2021,8,Emerging Markets,China,2.43E-05
+2021-09,2021,9,Emerging Markets,China,2.79E-05
+2021-10,2021,10,Emerging Markets,China,5.02E-05
+2021-11,2021,11,Emerging Markets,China,6.87E-05
+2021-12,2021,12,Emerging Markets,China,0.000106909
+2022-01,2022,1,Emerging Markets,China,0.000112825
+2022-02,2022,2,Emerging Markets,China,5.73E-05
+2022-03,2022,3,Emerging Markets,China,4.10E-05
+2022-04,2022,4,Emerging Markets,China,3.33E-05
+2022-05,2022,5,Emerging Markets,China,3.30E-05
+2022-06,2022,6,Emerging Markets,China,3.15E-05
+2022-07,2022,7,Emerging Markets,China,2.63E-05
+2022-08,2022,8,Emerging Markets,China,2.39E-05
+2022-09,2022,9,Emerging Markets,China,3.19E-05
+2022-10,2022,10,Emerging Markets,China,4.70E-05
+2022-11,2022,11,Emerging Markets,China,5.60E-05
+2022-12,2022,12,Emerging Markets,China,8.45E-05
+2023-01,2023,1,Emerging Markets,China,8.08E-05
+2023-02,2023,2,Emerging Markets,China,7.10E-05
+2023-03,2023,3,Emerging Markets,China,4.84E-05
+2023-04,2023,4,Emerging Markets,China,3.62E-05
+2023-05,2023,5,Emerging Markets,China,3.16E-05
+2023-06,2023,6,Emerging Markets,China,3.16E-05
+2023-07,2023,7,Emerging Markets,China,2.89E-05
+2023-08,2023,8,Emerging Markets,China,2.58E-05
+2023-09,2023,9,Emerging Markets,China,2.99E-05
+2023-10,2023,10,Emerging Markets,China,4.86E-05
+2023-11,2023,11,Emerging Markets,China,5.91E-05
+2023-12,2023,12,Emerging Markets,China,6.60E-05
+2024-01,2024,1,Emerging Markets,China,6.68E-05
+2024-02,2024,2,Emerging Markets,China,3.06E-05
+2024-03,2024,3,Emerging Markets,China,3.80E-05
+2024-04,2024,4,Emerging Markets,China,3.41E-05
+2024-05,2024,5,Emerging Markets,China,3.21E-05
+2024-06,2024,6,Emerging Markets,China,2.99E-05
+2024-07,2024,7,Emerging Markets,China,2.48E-05
+2024-08,2024,8,Emerging Markets,China,2.40E-05
+2024-09,2024,9,Emerging Markets,China,2.85E-05
+2024-10,2024,10,Emerging Markets,China,4.46E-05
+2024-11,2024,11,Emerging Markets,China,5.10E-05
+2024-12,2024,12,Emerging Markets,China,6.97E-05
+2025-01,2025,1,Emerging Markets,China,6.45E-05
+2025-02,2025,2,Emerging Markets,China,4.41E-05
+2025-03,2025,3,Emerging Markets,China,3.80E-05
+2025-04,2025,4,Emerging Markets,China,3.40E-05
+2025-05,2025,5,Emerging Markets,China,3.08E-05
+2025-06,2025,6,Emerging Markets,China,3.03E-05
+2025-07,2025,7,Emerging Markets,China,2.54E-05
+2025-08,2025,8,Emerging Markets,China,2.26E-05
+2025-09,2025,9,Emerging Markets,China,2.81E-05
+2025-10,2025,10,Emerging Markets,China,3.73E-05
+2025-11,2025,11,Emerging Markets,China,5.80E-05
+2025-12,2025,12,Emerging Markets,China,6.90E-05
+2026-01,2026,1,Emerging Markets,China,6.26E-05
+2026-02,2026,2,Emerging Markets,China,3.95E-05
+2026-03,2026,3,Emerging Markets,China,3.67E-05
+2026-04,2026,4,Emerging Markets,China,3.18E-05
+2019-01,2019,1,Europe,Denmark,6.94E-06
+2019-02,2019,2,Europe,Denmark,4.97E-05
+2019-03,2019,3,Europe,Denmark,2.24E-05
+2019-04,2019,4,Europe,Denmark,3.23E-05
+2019-05,2019,5,Europe,Denmark,2.17E-05
+2019-06,2019,6,Europe,Denmark,2.17E-05
+2019-07,2019,7,Europe,Denmark,1.80E-05
+2019-08,2019,8,Europe,Denmark,2.40E-05
+2019-09,2019,9,Europe,Denmark,2.05E-05
+2019-10,2019,10,Europe,Denmark,3.07E-05
+2019-11,2019,11,Europe,Denmark,5.18E-05
+2019-12,2019,12,Europe,Denmark,3.56E-05
+2020-01,2020,1,Europe,Denmark,3.07E-05
+2020-02,2020,2,Europe,Denmark,1.29E-05
+2020-03,2020,3,Europe,Denmark,2.36E-05
+2020-04,2020,4,Europe,Denmark,2.64E-05
+2020-05,2020,5,Europe,Denmark,2.11E-05
+2020-06,2020,6,Europe,Denmark,2.07E-05
+2020-07,2020,7,Europe,Denmark,1.40E-05
+2020-08,2020,8,Europe,Denmark,2.58E-05
+2020-09,2020,9,Europe,Denmark,2.69E-05
+2020-10,2020,10,Europe,Denmark,2.69E-05
+2020-11,2020,11,Europe,Denmark,2.38E-05
+2020-12,2020,12,Europe,Denmark,3.72E-05
+2021-01,2021,1,Europe,Denmark,1.47E-05
+2021-02,2021,2,Europe,Denmark,5.45E-05
+2021-03,2021,3,Europe,Denmark,3.31E-05
+2021-04,2021,4,Europe,Denmark,2.55E-05
+2021-05,2021,5,Europe,Denmark,2.42E-05
+2021-06,2021,6,Europe,Denmark,2.16E-05
+2021-07,2021,7,Europe,Denmark,2.11E-05
+2021-08,2021,8,Europe,Denmark,2.30E-05
+2021-09,2021,9,Europe,Denmark,2.73E-05
+2021-10,2021,10,Europe,Denmark,3.87E-05
+2021-11,2021,11,Europe,Denmark,2.31E-05
+2021-12,2021,12,Europe,Denmark,2.52E-05
+2022-01,2022,1,Europe,Denmark,3.50E-05
+2022-02,2022,2,Europe,Denmark,3.31E-05
+2022-03,2022,3,Europe,Denmark,3.85E-05
+2022-04,2022,4,Europe,Denmark,2.84E-05
+2022-05,2022,5,Europe,Denmark,2.33E-05
+2022-06,2022,6,Europe,Denmark,2.20E-05
+2022-07,2022,7,Europe,Denmark,1.99E-05
+2022-08,2022,8,Europe,Denmark,2.43E-05
+2022-09,2022,9,Europe,Denmark,2.47E-05
+2022-10,2022,10,Europe,Denmark,3.74E-05
+2022-11,2022,11,Europe,Denmark,3.43E-05
+2022-12,2022,12,Europe,Denmark,4.27E-05
+2023-01,2023,1,Europe,Denmark,3.99E-05
+2023-02,2023,2,Europe,Denmark,1.81E-05
+2023-03,2023,3,Europe,Denmark,2.79E-05
+2023-04,2023,4,Europe,Denmark,2.87E-05
+2023-05,2023,5,Europe,Denmark,2.80E-05
+2023-06,2023,6,Europe,Denmark,2.45E-05
+2023-07,2023,7,Europe,Denmark,1.86E-05
+2023-08,2023,8,Europe,Denmark,2.14E-05
+2023-09,2023,9,Europe,Denmark,3.10E-05
+2023-10,2023,10,Europe,Denmark,2.49E-05
+2023-11,2023,11,Europe,Denmark,3.08E-05
+2023-12,2023,12,Europe,Denmark,-9.76E-06
+2024-01,2024,1,Europe,Denmark,1.98E-05
+2024-02,2024,2,Europe,Denmark,2.01E-05
+2024-03,2024,3,Europe,Denmark,3.10E-05
+2024-04,2024,4,Europe,Denmark,2.73E-05
+2024-05,2024,5,Europe,Denmark,2.90E-05
+2024-06,2024,6,Europe,Denmark,1.85E-05
+2024-07,2024,7,Europe,Denmark,1.54E-05
+2024-08,2024,8,Europe,Denmark,2.36E-05
+2024-09,2024,9,Europe,Denmark,2.96E-05
+2024-10,2024,10,Europe,Denmark,3.62E-05
+2024-11,2024,11,Europe,Denmark,2.27E-05
+2024-12,2024,12,Europe,Denmark,2.32E-05
+2025-01,2025,1,Europe,Denmark,2.63E-05
+2025-02,2025,2,Europe,Denmark,3.83E-05
+2025-03,2025,3,Europe,Denmark,4.21E-05
+2025-04,2025,4,Europe,Denmark,3.26E-05
+2025-05,2025,5,Europe,Denmark,2.07E-05
+2025-06,2025,6,Europe,Denmark,1.77E-05
+2025-07,2025,7,Europe,Denmark,2.09E-05
+2025-08,2025,8,Europe,Denmark,2.30E-05
+2025-09,2025,9,Europe,Denmark,2.91E-05
+2025-10,2025,10,Europe,Denmark,2.70E-05
+2025-11,2025,11,Europe,Denmark,3.16E-05
+2025-12,2025,12,Europe,Denmark,2.90E-05
+2026-01,2026,1,Europe,Denmark,3.69E-05
+2026-02,2026,2,Europe,Denmark,2.85E-05
+2026-03,2026,3,Europe,Denmark,3.41E-05
+2026-04,2026,4,Europe,Denmark,3.06E-05
+2019-01,2019,1,Europe,France,2.46E-05
+2019-02,2019,2,Europe,France,3.64E-05
+2019-03,2019,3,Europe,France,3.14E-05
+2019-04,2019,4,Europe,France,3.36E-05
+2019-05,2019,5,Europe,France,2.74E-05
+2019-06,2019,6,Europe,France,2.40E-05
+2019-07,2019,7,Europe,France,2.41E-05
+2019-08,2019,8,Europe,France,2.31E-05
+2019-09,2019,9,Europe,France,2.74E-05
+2019-10,2019,10,Europe,France,2.68E-05
+2019-11,2019,11,Europe,France,2.79E-05
+2019-12,2019,12,Europe,France,3.09E-05
+2020-01,2020,1,Europe,France,3.36E-05
+2020-02,2020,2,Europe,France,2.59E-05
+2020-03,2020,3,Europe,France,2.70E-05
+2020-04,2020,4,Europe,France,2.55E-05
+2020-05,2020,5,Europe,France,2.61E-05
+2020-06,2020,6,Europe,France,2.13E-05
+2020-07,2020,7,Europe,France,2.21E-05
+2020-08,2020,8,Europe,France,2.41E-05
+2020-09,2020,9,Europe,France,2.94E-05
+2020-10,2020,10,Europe,France,2.19E-05
+2020-11,2020,11,Europe,France,3.59E-05
+2020-12,2020,12,Europe,France,3.09E-05
+2021-01,2021,1,Europe,France,3.93E-05
+2021-02,2021,2,Europe,France,3.53E-05
+2021-03,2021,3,Europe,France,3.57E-05
+2021-04,2021,4,Europe,France,3.29E-05
+2021-05,2021,5,Europe,France,2.29E-05
+2021-06,2021,6,Europe,France,2.56E-05
+2021-07,2021,7,Europe,France,2.41E-05
+2021-08,2021,8,Europe,France,2.37E-05
+2021-09,2021,9,Europe,France,2.85E-05
+2021-10,2021,10,Europe,France,3.31E-05
+2021-11,2021,11,Europe,France,4.52E-05
+2021-12,2021,12,Europe,France,4.46E-05
+2022-01,2022,1,Europe,France,4.21E-05
+2022-02,2022,2,Europe,France,2.96E-05
+2022-03,2022,3,Europe,France,3.56E-05
+2022-04,2022,4,Europe,France,2.90E-05
+2022-05,2022,5,Europe,France,2.56E-05
+2022-06,2022,6,Europe,France,2.63E-05
+2022-07,2022,7,Europe,France,2.58E-05
+2022-08,2022,8,Europe,France,2.74E-05
+2022-09,2022,9,Europe,France,2.57E-05
+2022-10,2022,10,Europe,France,2.89E-05
+2022-11,2022,11,Europe,France,2.97E-05
+2022-12,2022,12,Europe,France,4.06E-05
+2023-01,2023,1,Europe,France,3.43E-05
+2023-02,2023,2,Europe,France,3.91E-05
+2023-03,2023,3,Europe,France,3.42E-05
+2023-04,2023,4,Europe,France,2.80E-05
+2023-05,2023,5,Europe,France,2.93E-05
+2023-06,2023,6,Europe,France,2.92E-05
+2023-07,2023,7,Europe,France,2.09E-05
+2023-08,2023,8,Europe,France,2.45E-05
+2023-09,2023,9,Europe,France,2.78E-05
+2023-10,2023,10,Europe,France,2.53E-05
+2023-11,2023,11,Europe,France,2.62E-05
+2023-12,2023,12,Europe,France,3.36E-05
+2024-01,2024,1,Europe,France,3.19E-05
+2024-02,2024,2,Europe,France,2.44E-05
+2024-03,2024,3,Europe,France,2.40E-05
+2024-04,2024,4,Europe,France,2.30E-05
+2024-05,2024,5,Europe,France,2.38E-05
+2024-06,2024,6,Europe,France,2.44E-05
+2024-07,2024,7,Europe,France,2.10E-05
+2024-08,2024,8,Europe,France,2.34E-05
+2024-09,2024,9,Europe,France,2.50E-05
+2024-10,2024,10,Europe,France,2.99E-05
+2024-11,2024,11,Europe,France,3.74E-05
+2024-12,2024,12,Europe,France,3.34E-05
+2025-01,2025,1,Europe,France,3.86E-05
+2025-02,2025,2,Europe,France,3.51E-05
+2025-03,2025,3,Europe,France,3.24E-05
+2025-04,2025,4,Europe,France,3.33E-05
+2025-05,2025,5,Europe,France,2.70E-05
+2025-06,2025,6,Europe,France,2.74E-05
+2025-07,2025,7,Europe,France,2.43E-05
+2025-08,2025,8,Europe,France,2.66E-05
+2025-09,2025,9,Europe,France,2.37E-05
+2025-10,2025,10,Europe,France,3.08E-05
+2025-11,2025,11,Europe,France,3.59E-05
+2025-12,2025,12,Europe,France,4.09E-05
+2026-01,2026,1,Europe,France,2.76E-05
+2026-02,2026,2,Europe,France,2.05E-05
+2026-03,2026,3,Europe,France,2.95E-05
+2026-04,2026,4,Europe,France,3.08E-05
+2019-01,2019,1,Europe,Germany,5.02E-05
+2019-02,2019,2,Europe,Germany,7.41E-05
+2019-03,2019,3,Europe,Germany,5.68E-05
+2019-04,2019,4,Europe,Germany,4.83E-05
+2019-05,2019,5,Europe,Germany,3.52E-05
+2019-06,2019,6,Europe,Germany,3.17E-05
+2019-07,2019,7,Europe,Germany,3.15E-05
+2019-08,2019,8,Europe,Germany,3.40E-05
+2019-09,2019,9,Europe,Germany,4.32E-05
+2019-10,2019,10,Europe,Germany,5.62E-05
+2019-11,2019,11,Europe,Germany,5.99E-05
+2019-12,2019,12,Europe,Germany,5.93E-05
+2020-01,2020,1,Europe,Germany,5.95E-05
+2020-02,2020,2,Europe,Germany,4.68E-05
+2020-03,2020,3,Europe,Germany,4.59E-05
+2020-04,2020,4,Europe,Germany,3.90E-05
+2020-05,2020,5,Europe,Germany,3.32E-05
+2020-06,2020,6,Europe,Germany,2.59E-05
+2020-07,2020,7,Europe,Germany,2.56E-05
+2020-08,2020,8,Europe,Germany,3.15E-05
+2020-09,2020,9,Europe,Germany,4.56E-05
+2020-10,2020,10,Europe,Germany,4.05E-05
+2020-11,2020,11,Europe,Germany,5.42E-05
+2020-12,2020,12,Europe,Germany,6.63E-05
+2021-01,2021,1,Europe,Germany,5.13E-05
+2021-02,2021,2,Europe,Germany,6.03E-05
+2021-03,2021,3,Europe,Germany,5.95E-05
+2021-04,2021,4,Europe,Germany,5.34E-05
+2021-05,2021,5,Europe,Germany,3.36E-05
+2021-06,2021,6,Europe,Germany,3.10E-05
+2021-07,2021,7,Europe,Germany,2.73E-05
+2021-08,2021,8,Europe,Germany,2.96E-05
+2021-09,2021,9,Europe,Germany,4.32E-05
+2021-10,2021,10,Europe,Germany,5.96E-05
+2021-11,2021,11,Europe,Germany,6.83E-05
+2021-12,2021,12,Europe,Germany,5.98E-05
+2022-01,2022,1,Europe,Germany,6.75E-05
+2022-02,2022,2,Europe,Germany,5.05E-05
+2022-03,2022,3,Europe,Germany,6.34E-05
+2022-04,2022,4,Europe,Germany,4.37E-05
+2022-05,2022,5,Europe,Germany,3.47E-05
+2022-06,2022,6,Europe,Germany,3.26E-05
+2022-07,2022,7,Europe,Germany,3.19E-05
+2022-08,2022,8,Europe,Germany,3.38E-05
+2022-09,2022,9,Europe,Germany,4.25E-05
+2022-10,2022,10,Europe,Germany,5.37E-05
+2022-11,2022,11,Europe,Germany,5.73E-05
+2022-12,2022,12,Europe,Germany,6.74E-05
+2023-01,2023,1,Europe,Germany,5.02E-05
+2023-02,2023,2,Europe,Germany,5.64E-05
+2023-03,2023,3,Europe,Germany,4.99E-05
+2023-04,2023,4,Europe,Germany,4.33E-05
+2023-05,2023,5,Europe,Germany,3.51E-05
+2023-06,2023,6,Europe,Germany,3.16E-05
+2023-07,2023,7,Europe,Germany,2.80E-05
+2023-08,2023,8,Europe,Germany,3.23E-05
+2023-09,2023,9,Europe,Germany,4.29E-05
+2023-10,2023,10,Europe,Germany,4.52E-05
+2023-11,2023,11,Europe,Germany,4.01E-05
+2023-12,2023,12,Europe,Germany,4.19E-05
+2024-01,2024,1,Europe,Germany,5.22E-05
+2024-02,2024,2,Europe,Germany,3.44E-05
+2024-03,2024,3,Europe,Germany,4.44E-05
+2024-04,2024,4,Europe,Germany,3.68E-05
+2024-05,2024,5,Europe,Germany,3.15E-05
+2024-06,2024,6,Europe,Germany,2.88E-05
+2024-07,2024,7,Europe,Germany,2.57E-05
+2024-08,2024,8,Europe,Germany,3.27E-05
+2024-09,2024,9,Europe,Germany,4.00E-05
+2024-10,2024,10,Europe,Germany,5.47E-05
+2024-11,2024,11,Europe,Germany,5.85E-05
+2024-12,2024,12,Europe,Germany,6.31E-05
+2025-01,2025,1,Europe,Germany,5.47E-05
+2025-02,2025,2,Europe,Germany,6.80E-05
+2025-03,2025,3,Europe,Germany,6.14E-05
+2025-04,2025,4,Europe,Germany,4.45E-05
+2025-05,2025,5,Europe,Germany,3.35E-05
+2025-06,2025,6,Europe,Germany,2.96E-05
+2025-07,2025,7,Europe,Germany,2.95E-05
+2025-08,2025,8,Europe,Germany,3.30E-05
+2025-09,2025,9,Europe,Germany,3.77E-05
+2025-10,2025,10,Europe,Germany,3.97E-05
+2025-11,2025,11,Europe,Germany,6.31E-05
+2025-12,2025,12,Europe,Germany,5.32E-05
+2026-01,2026,1,Europe,Germany,7.94E-05
+2026-02,2026,2,Europe,Germany,5.63E-05
+2026-03,2026,3,Europe,Germany,5.03E-05
+2026-04,2026,4,Europe,Germany,4.31E-05
+2019-01,2019,1,Europe,Hungary,4.22E-05
+2019-02,2019,2,Europe,Hungary,4.67E-05
+2019-03,2019,3,Europe,Hungary,3.56E-05
+2019-04,2019,4,Europe,Hungary,3.44E-05
+2019-05,2019,5,Europe,Hungary,2.34E-05
+2019-06,2019,6,Europe,Hungary,2.28E-05
+2019-07,2019,7,Europe,Hungary,2.20E-05
+2019-08,2019,8,Europe,Hungary,2.34E-05
+2019-09,2019,9,Europe,Hungary,2.85E-05
+2019-10,2019,10,Europe,Hungary,3.37E-05
+2019-11,2019,11,Europe,Hungary,3.66E-05
+2019-12,2019,12,Europe,Hungary,4.16E-05
+2020-01,2020,1,Europe,Hungary,4.86E-05
+2020-02,2020,2,Europe,Hungary,3.81E-05
+2020-03,2020,3,Europe,Hungary,3.07E-05
+2020-04,2020,4,Europe,Hungary,2.81E-05
+2020-05,2020,5,Europe,Hungary,2.37E-05
+2020-06,2020,6,Europe,Hungary,2.22E-05
+2020-07,2020,7,Europe,Hungary,2.08E-05
+2020-08,2020,8,Europe,Hungary,2.42E-05
+2020-09,2020,9,Europe,Hungary,2.77E-05
+2020-10,2020,10,Europe,Hungary,3.28E-05
+2020-11,2020,11,Europe,Hungary,3.74E-05
+2020-12,2020,12,Europe,Hungary,3.75E-05
+2021-01,2021,1,Europe,Hungary,4.23E-05
+2021-02,2021,2,Europe,Hungary,3.21E-05
+2021-03,2021,3,Europe,Hungary,3.71E-05
+2021-04,2021,4,Europe,Hungary,3.57E-05
+2021-05,2021,5,Europe,Hungary,2.52E-05
+2021-06,2021,6,Europe,Hungary,2.38E-05
+2021-07,2021,7,Europe,Hungary,2.25E-05
+2021-08,2021,8,Europe,Hungary,2.20E-05
+2021-09,2021,9,Europe,Hungary,3.04E-05
+2021-10,2021,10,Europe,Hungary,4.03E-05
+2021-11,2021,11,Europe,Hungary,5.33E-05
+2021-12,2021,12,Europe,Hungary,5.49E-05
+2022-01,2022,1,Europe,Hungary,4.88E-05
+2022-02,2022,2,Europe,Hungary,4.47E-05
+2022-03,2022,3,Europe,Hungary,3.23E-05
+2022-04,2022,4,Europe,Hungary,3.45E-05
+2022-05,2022,5,Europe,Hungary,2.71E-05
+2022-06,2022,6,Europe,Hungary,2.71E-05
+2022-07,2022,7,Europe,Hungary,2.58E-05
+2022-08,2022,8,Europe,Hungary,2.87E-05
+2022-09,2022,9,Europe,Hungary,2.87E-05
+2022-10,2022,10,Europe,Hungary,3.21E-05
+2022-11,2022,11,Europe,Hungary,5.23E-05
+2022-12,2022,12,Europe,Hungary,4.85E-05
+2023-01,2023,1,Europe,Hungary,4.46E-05
+2023-02,2023,2,Europe,Hungary,3.77E-05
+2023-03,2023,3,Europe,Hungary,3.38E-05
+2023-04,2023,4,Europe,Hungary,2.96E-05
+2023-05,2023,5,Europe,Hungary,2.43E-05
+2023-06,2023,6,Europe,Hungary,2.57E-05
+2023-07,2023,7,Europe,Hungary,2.45E-05
+2023-08,2023,8,Europe,Hungary,2.61E-05
+2023-09,2023,9,Europe,Hungary,2.96E-05
+2023-10,2023,10,Europe,Hungary,3.44E-05
+2023-11,2023,11,Europe,Hungary,3.93E-05
+2023-12,2023,12,Europe,Hungary,4.41E-05
+2024-01,2024,1,Europe,Hungary,3.32E-05
+2024-02,2024,2,Europe,Hungary,3.91E-05
+2024-03,2024,3,Europe,Hungary,2.95E-05
+2024-04,2024,4,Europe,Hungary,2.91E-05
+2024-05,2024,5,Europe,Hungary,2.57E-05
+2024-06,2024,6,Europe,Hungary,2.27E-05
+2024-07,2024,7,Europe,Hungary,2.20E-05
+2024-08,2024,8,Europe,Hungary,2.87E-05
+2024-09,2024,9,Europe,Hungary,2.96E-05
+2024-10,2024,10,Europe,Hungary,3.52E-05
+2024-11,2024,11,Europe,Hungary,4.57E-05
+2024-12,2024,12,Europe,Hungary,5.28E-05
+2025-01,2025,1,Europe,Hungary,4.23E-05
+2025-02,2025,2,Europe,Hungary,3.95E-05
+2025-03,2025,3,Europe,Hungary,4.12E-05
+2025-04,2025,4,Europe,Hungary,2.99E-05
+2025-05,2025,5,Europe,Hungary,2.52E-05
+2025-06,2025,6,Europe,Hungary,2.53E-05
+2025-07,2025,7,Europe,Hungary,2.70E-05
+2025-08,2025,8,Europe,Hungary,2.69E-05
+2025-09,2025,9,Europe,Hungary,3.02E-05
+2025-10,2025,10,Europe,Hungary,3.73E-05
+2025-11,2025,11,Europe,Hungary,5.05E-05
+2025-12,2025,12,Europe,Hungary,5.14E-05
+2026-01,2026,1,Europe,Hungary,4.34E-05
+2026-02,2026,2,Europe,Hungary,3.94E-05
+2026-03,2026,3,Europe,Hungary,3.17E-05
+2026-04,2026,4,Europe,Hungary,2.85E-05
+2019-01,2019,1,Emerging Markets,India,3.28E-05
+2019-02,2019,2,Emerging Markets,India,2.85E-05
+2019-03,2019,3,Emerging Markets,India,3.10E-05
+2019-04,2019,4,Emerging Markets,India,3.09E-05
+2019-05,2019,5,Emerging Markets,India,3.01E-05
+2019-06,2019,6,Emerging Markets,India,3.13E-05
+2019-07,2019,7,Emerging Markets,India,2.30E-05
+2019-08,2019,8,Emerging Markets,India,1.98E-05
+2019-09,2019,9,Emerging Markets,India,2.06E-05
+2019-10,2019,10,Emerging Markets,India,2.50E-05
+2019-11,2019,11,Emerging Markets,India,2.76E-05
+2019-12,2019,12,Emerging Markets,India,2.89E-05
+2020-01,2020,1,Emerging Markets,India,2.82E-05
+2020-02,2020,2,Emerging Markets,India,2.73E-05
+2020-03,2020,3,Emerging Markets,India,2.66E-05
+2020-04,2020,4,Emerging Markets,India,2.61E-05
+2020-05,2020,5,Emerging Markets,India,2.70E-05
+2020-06,2020,6,Emerging Markets,India,2.46E-05
+2020-07,2020,7,Emerging Markets,India,2.13E-05
+2020-08,2020,8,Emerging Markets,India,1.88E-05
+2020-09,2020,9,Emerging Markets,India,2.16E-05
+2020-10,2020,10,Emerging Markets,India,2.61E-05
+2020-11,2020,11,Emerging Markets,India,2.99E-05
+2020-12,2020,12,Emerging Markets,India,3.30E-05
+2021-01,2021,1,Emerging Markets,India,3.26E-05
+2021-02,2021,2,Emerging Markets,India,3.23E-05
+2021-03,2021,3,Emerging Markets,India,3.75E-05
+2021-04,2021,4,Emerging Markets,India,3.25E-05
+2021-05,2021,5,Emerging Markets,India,2.67E-05
+2021-06,2021,6,Emerging Markets,India,2.71E-05
+2021-07,2021,7,Emerging Markets,India,2.39E-05
+2021-08,2021,8,Emerging Markets,India,2.24E-05
+2021-09,2021,9,Emerging Markets,India,2.29E-05
+2021-10,2021,10,Emerging Markets,India,2.77E-05
+2021-11,2021,11,Emerging Markets,India,2.96E-05
+2021-12,2021,12,Emerging Markets,India,3.21E-05
+2022-01,2022,1,Emerging Markets,India,3.07E-05
+2022-02,2022,2,Emerging Markets,India,2.99E-05
+2022-03,2022,3,Emerging Markets,India,3.68E-05
+2022-04,2022,4,Emerging Markets,India,3.42E-05
+2022-05,2022,5,Emerging Markets,India,3.01E-05
+2022-06,2022,6,Emerging Markets,India,3.29E-05
+2022-07,2022,7,Emerging Markets,India,2.38E-05
+2022-08,2022,8,Emerging Markets,India,2.18E-05
+2022-09,2022,9,Emerging Markets,India,2.45E-05
+2022-10,2022,10,Emerging Markets,India,2.84E-05
+2022-11,2022,11,Emerging Markets,India,3.50E-05
+2022-12,2022,12,Emerging Markets,India,3.80E-05
+2023-01,2023,1,Emerging Markets,India,3.67E-05
+2023-02,2023,2,Emerging Markets,India,3.65E-05
+2023-03,2023,3,Emerging Markets,India,3.51E-05
+2023-04,2023,4,Emerging Markets,India,3.20E-05
+2023-05,2023,5,Emerging Markets,India,3.10E-05
+2023-06,2023,6,Emerging Markets,India,3.00E-05
+2023-07,2023,7,Emerging Markets,India,2.38E-05
+2023-08,2023,8,Emerging Markets,India,2.25E-05
+2023-09,2023,9,Emerging Markets,India,2.62E-05
+2023-10,2023,10,Emerging Markets,India,3.08E-05
+2023-11,2023,11,Emerging Markets,India,3.37E-05
+2023-12,2023,12,Emerging Markets,India,3.40E-05
+2024-01,2024,1,Emerging Markets,India,3.41E-05
+2024-02,2024,2,Emerging Markets,India,3.06E-05
+2024-03,2024,3,Emerging Markets,India,3.13E-05
+2024-04,2024,4,Emerging Markets,India,3.24E-05
+2024-05,2024,5,Emerging Markets,India,3.56E-05
+2024-06,2024,6,Emerging Markets,India,3.44E-05
+2024-07,2024,7,Emerging Markets,India,2.36E-05
+2024-08,2024,8,Emerging Markets,India,2.29E-05
+2024-09,2024,9,Emerging Markets,India,2.43E-05
+2024-10,2024,10,Emerging Markets,India,2.98E-05
+2024-11,2024,11,Emerging Markets,India,3.49E-05
+2024-12,2024,12,Emerging Markets,India,3.44E-05
+2025-01,2025,1,Emerging Markets,India,3.51E-05
+2025-02,2025,2,Emerging Markets,India,3.35E-05
+2025-03,2025,3,Emerging Markets,India,3.83E-05
+2025-04,2025,4,Emerging Markets,India,3.49E-05
+2025-05,2025,5,Emerging Markets,India,3.30E-05
+2025-06,2025,6,Emerging Markets,India,2.79E-05
+2025-07,2025,7,Emerging Markets,India,2.23E-05
+2025-08,2025,8,Emerging Markets,India,1.99E-05
+2025-09,2025,9,Emerging Markets,India,2.35E-05
+2025-10,2025,10,Emerging Markets,India,2.64E-05
+2025-11,2025,11,Emerging Markets,India,3.24E-05
+2025-12,2025,12,Emerging Markets,India,3.62E-05
+2026-01,2026,1,Emerging Markets,India,3.35E-05
+2026-02,2026,2,Emerging Markets,India,3.37E-05
+2026-03,2026,3,Emerging Markets,India,3.71E-05
+2026-04,2026,4,Emerging Markets,India,3.56E-05
+2019-01,2019,1,Emerging Markets,Indonesia,8.22E-06
+2019-02,2019,2,Emerging Markets,Indonesia,8.75E-06
+2019-03,2019,3,Emerging Markets,Indonesia,8.41E-06
+2019-04,2019,4,Emerging Markets,Indonesia,8.10E-06
+2019-05,2019,5,Emerging Markets,Indonesia,8.23E-06
+2019-06,2019,6,Emerging Markets,Indonesia,7.10E-06
+2019-07,2019,7,Emerging Markets,Indonesia,6.88E-06
+2019-08,2019,8,Emerging Markets,Indonesia,7.06E-06
+2019-09,2019,9,Emerging Markets,Indonesia,8.52E-06
+2019-10,2019,10,Emerging Markets,Indonesia,1.02E-05
+2019-11,2019,11,Emerging Markets,Indonesia,9.83E-06
+2019-12,2019,12,Emerging Markets,Indonesia,9.71E-06
+2020-01,2020,1,Emerging Markets,Indonesia,7.76E-06
+2020-02,2020,2,Emerging Markets,Indonesia,7.19E-06
+2020-03,2020,3,Emerging Markets,Indonesia,7.76E-06
+2020-04,2020,4,Emerging Markets,Indonesia,8.48E-06
+2020-05,2020,5,Emerging Markets,Indonesia,6.91E-06
+2020-06,2020,6,Emerging Markets,Indonesia,6.90E-06
+2020-07,2020,7,Emerging Markets,Indonesia,6.50E-06
+2020-08,2020,8,Emerging Markets,Indonesia,6.62E-06
+2020-09,2020,9,Emerging Markets,Indonesia,7.40E-06
+2020-10,2020,10,Emerging Markets,Indonesia,7.62E-06
+2020-11,2020,11,Emerging Markets,Indonesia,8.45E-06
+2020-12,2020,12,Emerging Markets,Indonesia,7.55E-06
+2021-01,2021,1,Emerging Markets,Indonesia,7.08E-06
+2021-02,2021,2,Emerging Markets,Indonesia,7.30E-06
+2021-03,2021,3,Emerging Markets,Indonesia,8.31E-06
+2021-04,2021,4,Emerging Markets,Indonesia,8.51E-06
+2021-05,2021,5,Emerging Markets,Indonesia,8.76E-06
+2021-06,2021,6,Emerging Markets,Indonesia,8.30E-06
+2021-07,2021,7,Emerging Markets,Indonesia,7.63E-06
+2021-08,2021,8,Emerging Markets,Indonesia,8.03E-06
+2021-09,2021,9,Emerging Markets,Indonesia,8.66E-06
+2021-10,2021,10,Emerging Markets,Indonesia,9.20E-06
+2021-11,2021,11,Emerging Markets,Indonesia,8.57E-06
+2021-12,2021,12,Emerging Markets,Indonesia,8.75E-06
+2022-01,2022,1,Emerging Markets,Indonesia,8.56E-06
+2022-02,2022,2,Emerging Markets,Indonesia,7.39E-06
+2022-03,2022,3,Emerging Markets,Indonesia,8.24E-06
+2022-04,2022,4,Emerging Markets,Indonesia,8.74E-06
+2022-05,2022,5,Emerging Markets,Indonesia,8.20E-06
+2022-06,2022,6,Emerging Markets,Indonesia,8.76E-06
+2022-07,2022,7,Emerging Markets,Indonesia,8.38E-06
+2022-08,2022,8,Emerging Markets,Indonesia,8.99E-06
+2022-09,2022,9,Emerging Markets,Indonesia,8.41E-06
+2022-10,2022,10,Emerging Markets,Indonesia,9.20E-06
+2022-11,2022,11,Emerging Markets,Indonesia,8.82E-06
+2022-12,2022,12,Emerging Markets,Indonesia,8.45E-06
+2023-01,2023,1,Emerging Markets,Indonesia,7.98E-06
+2023-02,2023,2,Emerging Markets,Indonesia,8.11E-06
+2023-03,2023,3,Emerging Markets,Indonesia,9.75E-06
+2023-04,2023,4,Emerging Markets,Indonesia,1.01E-05
+2023-05,2023,5,Emerging Markets,Indonesia,9.25E-06
+2023-06,2023,6,Emerging Markets,Indonesia,8.31E-06
+2023-07,2023,7,Emerging Markets,Indonesia,7.95E-06
+2023-08,2023,8,Emerging Markets,Indonesia,8.74E-06
+2023-09,2023,9,Emerging Markets,Indonesia,9.72E-06
+2023-10,2023,10,Emerging Markets,Indonesia,1.18E-05
+2023-11,2023,11,Emerging Markets,Indonesia,1.18E-05
+2023-12,2023,12,Emerging Markets,Indonesia,1.01E-05
+2024-01,2024,1,Emerging Markets,Indonesia,8.70E-06
+2024-02,2024,2,Emerging Markets,Indonesia,9.00E-06
+2024-03,2024,3,Emerging Markets,Indonesia,8.65E-06
+2024-04,2024,4,Emerging Markets,Indonesia,9.28E-06
+2024-05,2024,5,Emerging Markets,Indonesia,8.77E-06
+2024-06,2024,6,Emerging Markets,Indonesia,8.17E-06
+2024-07,2024,7,Emerging Markets,Indonesia,7.83E-06
+2024-08,2024,8,Emerging Markets,Indonesia,8.42E-06
+2024-09,2024,9,Emerging Markets,Indonesia,8.91E-06
+2024-10,2024,10,Emerging Markets,Indonesia,9.22E-06
+2024-11,2024,11,Emerging Markets,Indonesia,1.02E-05
+2024-12,2024,12,Emerging Markets,Indonesia,8.61E-06
+2025-01,2025,1,Emerging Markets,Indonesia,8.64E-06
+2025-02,2025,2,Emerging Markets,Indonesia,8.62E-06
+2025-03,2025,3,Emerging Markets,Indonesia,8.11E-06
+2025-04,2025,4,Emerging Markets,Indonesia,8.36E-06
+2025-05,2025,5,Emerging Markets,Indonesia,8.78E-06
+2025-06,2025,6,Emerging Markets,Indonesia,7.43E-06
+2025-07,2025,7,Emerging Markets,Indonesia,7.29E-06
+2025-08,2025,8,Emerging Markets,Indonesia,8.44E-06
+2025-09,2025,9,Emerging Markets,Indonesia,8.95E-06
+2025-10,2025,10,Emerging Markets,Indonesia,9.56E-06
+2025-11,2025,11,Emerging Markets,Indonesia,8.45E-06
+2025-12,2025,12,Emerging Markets,Indonesia,8.80E-06
+2026-01,2026,1,Emerging Markets,Indonesia,8.88E-06
+2026-02,2026,2,Emerging Markets,Indonesia,8.53E-06
+2026-03,2026,3,Emerging Markets,Indonesia,1.05E-05
+2026-04,2026,4,Emerging Markets,Indonesia,1.01E-05
+2019-01,2019,1,Europe,Italy,4.92E-05
+2019-02,2019,2,Europe,Italy,5.49E-05
+2019-03,2019,3,Europe,Italy,4.08E-05
+2019-04,2019,4,Europe,Italy,3.29E-05
+2019-05,2019,5,Europe,Italy,2.64E-05
+2019-06,2019,6,Europe,Italy,2.58E-05
+2019-07,2019,7,Europe,Italy,2.57E-05
+2019-08,2019,8,Europe,Italy,2.47E-05
+2019-09,2019,9,Europe,Italy,2.97E-05
+2019-10,2019,10,Europe,Italy,3.57E-05
+2019-11,2019,11,Europe,Italy,3.65E-05
+2019-12,2019,12,Europe,Italy,4.47E-05
+2020-01,2020,1,Europe,Italy,5.79E-05
+2020-02,2020,2,Europe,Italy,4.86E-05
+2020-03,2020,3,Europe,Italy,3.00E-05
+2020-04,2020,4,Europe,Italy,2.67E-05
+2020-05,2020,5,Europe,Italy,2.65E-05
+2020-06,2020,6,Europe,Italy,2.31E-05
+2020-07,2020,7,Europe,Italy,2.47E-05
+2020-08,2020,8,Europe,Italy,2.49E-05
+2020-09,2020,9,Europe,Italy,2.90E-05
+2020-10,2020,10,Europe,Italy,3.44E-05
+2020-11,2020,11,Europe,Italy,4.72E-05
+2020-12,2020,12,Europe,Italy,5.14E-05
+2021-01,2021,1,Europe,Italy,5.02E-05
+2021-02,2021,2,Europe,Italy,4.68E-05
+2021-03,2021,3,Europe,Italy,4.11E-05
+2021-04,2021,4,Europe,Italy,2.99E-05
+2021-05,2021,5,Europe,Italy,2.57E-05
+2021-06,2021,6,Europe,Italy,2.61E-05
+2021-07,2021,7,Europe,Italy,2.57E-05
+2021-08,2021,8,Europe,Italy,2.49E-05
+2021-09,2021,9,Europe,Italy,3.28E-05
+2021-10,2021,10,Europe,Italy,4.19E-05
+2021-11,2021,11,Europe,Italy,5.44E-05
+2021-12,2021,12,Europe,Italy,7.31E-05
+2022-01,2022,1,Europe,Italy,5.92E-05
+2022-02,2022,2,Europe,Italy,5.46E-05
+2022-03,2022,3,Europe,Italy,4.32E-05
+2022-04,2022,4,Europe,Italy,3.29E-05
+2022-05,2022,5,Europe,Italy,2.80E-05
+2022-06,2022,6,Europe,Italy,2.72E-05
+2022-07,2022,7,Europe,Italy,2.75E-05
+2022-08,2022,8,Europe,Italy,2.64E-05
+2022-09,2022,9,Europe,Italy,2.91E-05
+2022-10,2022,10,Europe,Italy,3.84E-05
+2022-11,2022,11,Europe,Italy,4.77E-05
+2022-12,2022,12,Europe,Italy,5.47E-05
+2023-01,2023,1,Europe,Italy,5.00E-05
+2023-02,2023,2,Europe,Italy,5.41E-05
+2023-03,2023,3,Europe,Italy,3.83E-05
+2023-04,2023,4,Europe,Italy,2.88E-05
+2023-05,2023,5,Europe,Italy,2.68E-05
+2023-06,2023,6,Europe,Italy,2.78E-05
+2023-07,2023,7,Europe,Italy,2.44E-05
+2023-08,2023,8,Europe,Italy,2.68E-05
+2023-09,2023,9,Europe,Italy,3.18E-05
+2023-10,2023,10,Europe,Italy,3.41E-05
+2023-11,2023,11,Europe,Italy,4.29E-05
+2023-12,2023,12,Europe,Italy,5.14E-05
+2024-01,2024,1,Europe,Italy,5.04E-05
+2024-02,2024,2,Europe,Italy,4.47E-05
+2024-03,2024,3,Europe,Italy,3.20E-05
+2024-04,2024,4,Europe,Italy,3.01E-05
+2024-05,2024,5,Europe,Italy,2.54E-05
+2024-06,2024,6,Europe,Italy,2.37E-05
+2024-07,2024,7,Europe,Italy,2.43E-05
+2024-08,2024,8,Europe,Italy,2.61E-05
+2024-09,2024,9,Europe,Italy,2.62E-05
+2024-10,2024,10,Europe,Italy,3.62E-05
+2024-11,2024,11,Europe,Italy,4.91E-05
+2024-12,2024,12,Europe,Italy,5.26E-05
+2025-01,2025,1,Europe,Italy,4.89E-05
+2025-02,2025,2,Europe,Italy,4.23E-05
+2025-03,2025,3,Europe,Italy,3.63E-05
+2025-04,2025,4,Europe,Italy,2.93E-05
+2025-05,2025,5,Europe,Italy,2.71E-05
+2025-06,2025,6,Europe,Italy,2.85E-05
+2025-07,2025,7,Europe,Italy,2.56E-05
+2025-08,2025,8,Europe,Italy,2.55E-05
+2025-09,2025,9,Europe,Italy,2.84E-05
+2025-10,2025,10,Europe,Italy,3.58E-05
+2025-11,2025,11,Europe,Italy,5.08E-05
+2025-12,2025,12,Europe,Italy,5.53E-05
+2026-01,2026,1,Europe,Italy,4.53E-05
+2026-02,2026,2,Europe,Italy,3.82E-05
+2026-03,2026,3,Europe,Italy,3.33E-05
+2026-04,2026,4,Europe,Italy,3.24E-05
+2019-01,2019,1,Asia-Pacific,Japan,3.12E-05
+2019-02,2019,2,Asia-Pacific,Japan,3.29E-05
+2019-03,2019,3,Asia-Pacific,Japan,3.09E-05
+2019-04,2019,4,Asia-Pacific,Japan,2.82E-05
+2019-05,2019,5,Asia-Pacific,Japan,2.51E-05
+2019-06,2019,6,Asia-Pacific,Japan,2.38E-05
+2019-07,2019,7,Asia-Pacific,Japan,2.26E-05
+2019-08,2019,8,Asia-Pacific,Japan,2.13E-05
+2019-09,2019,9,Asia-Pacific,Japan,2.10E-05
+2019-10,2019,10,Asia-Pacific,Japan,2.80E-05
+2019-11,2019,11,Asia-Pacific,Japan,3.09E-05
+2019-12,2019,12,Asia-Pacific,Japan,3.02E-05
+2020-01,2020,1,Asia-Pacific,Japan,2.78E-05
+2020-02,2020,2,Asia-Pacific,Japan,3.05E-05
+2020-03,2020,3,Asia-Pacific,Japan,2.39E-05
+2020-04,2020,4,Asia-Pacific,Japan,2.19E-05
+2020-05,2020,5,Asia-Pacific,Japan,2.09E-05
+2020-06,2020,6,Asia-Pacific,Japan,2.21E-05
+2020-07,2020,7,Asia-Pacific,Japan,1.90E-05
+2020-08,2020,8,Asia-Pacific,Japan,2.01E-05
+2020-09,2020,9,Asia-Pacific,Japan,2.12E-05
+2020-10,2020,10,Asia-Pacific,Japan,2.43E-05
+2020-11,2020,11,Asia-Pacific,Japan,2.51E-05
+2020-12,2020,12,Asia-Pacific,Japan,3.41E-05
+2021-01,2021,1,Asia-Pacific,Japan,3.95E-05
+2021-02,2021,2,Asia-Pacific,Japan,4.03E-05
+2021-03,2021,3,Asia-Pacific,Japan,3.06E-05
+2021-04,2021,4,Asia-Pacific,Japan,2.63E-05
+2021-05,2021,5,Asia-Pacific,Japan,2.39E-05
+2021-06,2021,6,Asia-Pacific,Japan,2.44E-05
+2021-07,2021,7,Asia-Pacific,Japan,2.13E-05
+2021-08,2021,8,Asia-Pacific,Japan,2.13E-05
+2021-09,2021,9,Asia-Pacific,Japan,2.49E-05
+2021-10,2021,10,Asia-Pacific,Japan,2.65E-05
+2021-11,2021,11,Asia-Pacific,Japan,2.53E-05
+2021-12,2021,12,Asia-Pacific,Japan,3.18E-05
+2022-01,2022,1,Asia-Pacific,Japan,3.72E-05
+2022-02,2022,2,Asia-Pacific,Japan,3.82E-05
+2022-03,2022,3,Asia-Pacific,Japan,3.35E-05
+2022-04,2022,4,Asia-Pacific,Japan,2.55E-05
+2022-05,2022,5,Asia-Pacific,Japan,2.39E-05
+2022-06,2022,6,Asia-Pacific,Japan,2.26E-05
+2022-07,2022,7,Asia-Pacific,Japan,2.25E-05
+2022-08,2022,8,Asia-Pacific,Japan,2.20E-05
+2022-09,2022,9,Asia-Pacific,Japan,2.45E-05
+2022-10,2022,10,Asia-Pacific,Japan,2.84E-05
+2022-11,2022,11,Asia-Pacific,Japan,3.02E-05
+2022-12,2022,12,Asia-Pacific,Japan,3.44E-05
+2023-01,2023,1,Asia-Pacific,Japan,3.65E-05
+2023-02,2023,2,Asia-Pacific,Japan,3.94E-05
+2023-03,2023,3,Asia-Pacific,Japan,2.89E-05
+2023-04,2023,4,Asia-Pacific,Japan,2.43E-05
+2023-05,2023,5,Asia-Pacific,Japan,2.29E-05
+2023-06,2023,6,Asia-Pacific,Japan,2.33E-05
+2023-07,2023,7,Asia-Pacific,Japan,2.33E-05
+2023-08,2023,8,Asia-Pacific,Japan,2.19E-05
+2023-09,2023,9,Asia-Pacific,Japan,2.50E-05
+2023-10,2023,10,Asia-Pacific,Japan,2.53E-05
+2023-11,2023,11,Asia-Pacific,Japan,2.94E-05
+2023-12,2023,12,Asia-Pacific,Japan,2.77E-05
+2024-01,2024,1,Asia-Pacific,Japan,2.69E-05
+2024-02,2024,2,Asia-Pacific,Japan,2.74E-05
+2024-03,2024,3,Asia-Pacific,Japan,2.04E-05
+2024-04,2024,4,Asia-Pacific,Japan,2.34E-05
+2024-05,2024,5,Asia-Pacific,Japan,2.15E-05
+2024-06,2024,6,Asia-Pacific,Japan,2.30E-05
+2024-07,2024,7,Asia-Pacific,Japan,1.94E-05
+2024-08,2024,8,Asia-Pacific,Japan,2.09E-05
+2024-09,2024,9,Asia-Pacific,Japan,2.48E-05
+2024-10,2024,10,Asia-Pacific,Japan,2.90E-05
+2024-11,2024,11,Asia-Pacific,Japan,2.93E-05
+2024-12,2024,12,Asia-Pacific,Japan,3.11E-05
+2025-01,2025,1,Asia-Pacific,Japan,2.60E-05
+2025-02,2025,2,Asia-Pacific,Japan,2.67E-05
+2025-03,2025,3,Asia-Pacific,Japan,2.70E-05
+2025-04,2025,4,Asia-Pacific,Japan,2.59E-05
+2025-05,2025,5,Asia-Pacific,Japan,2.48E-05
+2025-06,2025,6,Asia-Pacific,Japan,2.40E-05
+2025-07,2025,7,Asia-Pacific,Japan,2.13E-05
+2025-08,2025,8,Asia-Pacific,Japan,2.31E-05
+2025-09,2025,9,Asia-Pacific,Japan,2.39E-05
+2025-10,2025,10,Asia-Pacific,Japan,2.67E-05
+2025-11,2025,11,Asia-Pacific,Japan,3.11E-05
+2025-12,2025,12,Asia-Pacific,Japan,3.21E-05
+2026-01,2026,1,Asia-Pacific,Japan,3.07E-05
+2026-02,2026,2,Asia-Pacific,Japan,3.09E-05
+2026-03,2026,3,Asia-Pacific,Japan,2.54E-05
+2026-04,2026,4,Asia-Pacific,Japan,2.72E-05
+2019-01,2019,1,Emerging Markets,Mexico,1.60E-05
+2019-02,2019,2,Emerging Markets,Mexico,1.32E-05
+2019-03,2019,3,Emerging Markets,Mexico,1.43E-05
+2019-04,2019,4,Emerging Markets,Mexico,1.46E-05
+2019-05,2019,5,Emerging Markets,Mexico,1.36E-05
+2019-06,2019,6,Emerging Markets,Mexico,1.48E-05
+2019-07,2019,7,Emerging Markets,Mexico,1.55E-05
+2019-08,2019,8,Emerging Markets,Mexico,1.64E-05
+2019-09,2019,9,Emerging Markets,Mexico,1.39E-05
+2019-10,2019,10,Emerging Markets,Mexico,1.20E-05
+2019-11,2019,11,Emerging Markets,Mexico,1.15E-05
+2019-12,2019,12,Emerging Markets,Mexico,1.33E-05
+2020-01,2020,1,Emerging Markets,Mexico,1.43E-05
+2020-02,2020,2,Emerging Markets,Mexico,1.35E-05
+2020-03,2020,3,Emerging Markets,Mexico,1.31E-05
+2020-04,2020,4,Emerging Markets,Mexico,1.33E-05
+2020-05,2020,5,Emerging Markets,Mexico,1.33E-05
+2020-06,2020,6,Emerging Markets,Mexico,1.41E-05
+2020-07,2020,7,Emerging Markets,Mexico,1.57E-05
+2020-08,2020,8,Emerging Markets,Mexico,1.47E-05
+2020-09,2020,9,Emerging Markets,Mexico,1.41E-05
+2020-10,2020,10,Emerging Markets,Mexico,1.26E-05
+2020-11,2020,11,Emerging Markets,Mexico,1.38E-05
+2020-12,2020,12,Emerging Markets,Mexico,1.59E-05
+2021-01,2021,1,Emerging Markets,Mexico,1.56E-05
+2021-02,2021,2,Emerging Markets,Mexico,1.40E-05
+2021-03,2021,3,Emerging Markets,Mexico,1.46E-05
+2021-04,2021,4,Emerging Markets,Mexico,1.54E-05
+2021-05,2021,5,Emerging Markets,Mexico,1.45E-05
+2021-06,2021,6,Emerging Markets,Mexico,1.59E-05
+2021-07,2021,7,Emerging Markets,Mexico,1.64E-05
+2021-08,2021,8,Emerging Markets,Mexico,1.54E-05
+2021-09,2021,9,Emerging Markets,Mexico,1.42E-05
+2021-10,2021,10,Emerging Markets,Mexico,1.26E-05
+2021-11,2021,11,Emerging Markets,Mexico,1.34E-05
+2021-12,2021,12,Emerging Markets,Mexico,1.54E-05
+2022-01,2022,1,Emerging Markets,Mexico,1.53E-05
+2022-02,2022,2,Emerging Markets,Mexico,1.57E-05
+2022-03,2022,3,Emerging Markets,Mexico,1.57E-05
+2022-04,2022,4,Emerging Markets,Mexico,1.44E-05
+2022-05,2022,5,Emerging Markets,Mexico,1.53E-05
+2022-06,2022,6,Emerging Markets,Mexico,1.56E-05
+2022-07,2022,7,Emerging Markets,Mexico,1.64E-05
+2022-08,2022,8,Emerging Markets,Mexico,1.64E-05
+2022-09,2022,9,Emerging Markets,Mexico,1.37E-05
+2022-10,2022,10,Emerging Markets,Mexico,1.28E-05
+2022-11,2022,11,Emerging Markets,Mexico,1.41E-05
+2022-12,2022,12,Emerging Markets,Mexico,1.51E-05
+2023-01,2023,1,Emerging Markets,Mexico,1.73E-05
+2023-02,2023,2,Emerging Markets,Mexico,1.54E-05
+2023-03,2023,3,Emerging Markets,Mexico,1.39E-05
+2023-04,2023,4,Emerging Markets,Mexico,1.33E-05
+2023-05,2023,5,Emerging Markets,Mexico,1.37E-05
+2023-06,2023,6,Emerging Markets,Mexico,1.35E-05
+2023-07,2023,7,Emerging Markets,Mexico,1.79E-05
+2023-08,2023,8,Emerging Markets,Mexico,1.69E-05
+2023-09,2023,9,Emerging Markets,Mexico,1.38E-05
+2023-10,2023,10,Emerging Markets,Mexico,1.37E-05
+2023-11,2023,11,Emerging Markets,Mexico,1.39E-05
+2023-12,2023,12,Emerging Markets,Mexico,1.66E-05
+2024-01,2024,1,Emerging Markets,Mexico,1.55E-05
+2024-02,2024,2,Emerging Markets,Mexico,1.52E-05
+2024-03,2024,3,Emerging Markets,Mexico,1.32E-05
+2024-04,2024,4,Emerging Markets,Mexico,1.53E-05
+2024-05,2024,5,Emerging Markets,Mexico,1.54E-05
+2024-06,2024,6,Emerging Markets,Mexico,1.74E-05
+2024-07,2024,7,Emerging Markets,Mexico,1.56E-05
+2024-08,2024,8,Emerging Markets,Mexico,1.55E-05
+2024-09,2024,9,Emerging Markets,Mexico,1.42E-05
+2024-10,2024,10,Emerging Markets,Mexico,1.35E-05
+2024-11,2024,11,Emerging Markets,Mexico,1.43E-05
+2024-12,2024,12,Emerging Markets,Mexico,1.55E-05
+2025-01,2025,1,Emerging Markets,Mexico,1.80E-05
+2025-02,2025,2,Emerging Markets,Mexico,1.64E-05
+2025-03,2025,3,Emerging Markets,Mexico,1.68E-05
+2025-04,2025,4,Emerging Markets,Mexico,1.48E-05
+2025-05,2025,5,Emerging Markets,Mexico,1.57E-05
+2025-06,2025,6,Emerging Markets,Mexico,1.52E-05
+2025-07,2025,7,Emerging Markets,Mexico,1.47E-05
+2025-08,2025,8,Emerging Markets,Mexico,1.62E-05
+2025-09,2025,9,Emerging Markets,Mexico,1.38E-05
+2025-10,2025,10,Emerging Markets,Mexico,1.24E-05
+2025-11,2025,11,Emerging Markets,Mexico,1.48E-05
+2025-12,2025,12,Emerging Markets,Mexico,1.72E-05
+2026-01,2026,1,Emerging Markets,Mexico,1.74E-05
+2026-02,2026,2,Emerging Markets,Mexico,1.61E-05
+2026-03,2026,3,Emerging Markets,Mexico,1.56E-05
+2026-04,2026,4,Emerging Markets,Mexico,1.41E-05
+2019-01,2019,1,Europe,Netherlands,4.78E-05
+2019-02,2019,2,Europe,Netherlands,0.000104602
+2019-03,2019,3,Europe,Netherlands,6.93E-05
+2019-04,2019,4,Europe,Netherlands,7.96E-05
+2019-05,2019,5,Europe,Netherlands,5.73E-05
+2019-06,2019,6,Europe,Netherlands,4.77E-05
+2019-07,2019,7,Europe,Netherlands,4.88E-05
+2019-08,2019,8,Europe,Netherlands,5.94E-05
+2019-09,2019,9,Europe,Netherlands,5.36E-05
+2019-10,2019,10,Europe,Netherlands,7.12E-05
+2019-11,2019,11,Europe,Netherlands,9.76E-05
+2019-12,2019,12,Europe,Netherlands,8.45E-05
+2020-01,2020,1,Europe,Netherlands,6.48E-05
+2020-02,2020,2,Europe,Netherlands,6.12E-05
+2020-03,2020,3,Europe,Netherlands,6.36E-05
+2020-04,2020,4,Europe,Netherlands,6.11E-05
+2020-05,2020,5,Europe,Netherlands,4.76E-05
+2020-06,2020,6,Europe,Netherlands,4.30E-05
+2020-07,2020,7,Europe,Netherlands,3.57E-05
+2020-08,2020,8,Europe,Netherlands,4.82E-05
+2020-09,2020,9,Europe,Netherlands,6.39E-05
+2020-10,2020,10,Europe,Netherlands,5.17E-05
+2020-11,2020,11,Europe,Netherlands,8.55E-05
+2020-12,2020,12,Europe,Netherlands,7.08E-05
+2021-01,2021,1,Europe,Netherlands,5.49E-05
+2021-02,2021,2,Europe,Netherlands,8.22E-05
+2021-03,2021,3,Europe,Netherlands,9.58E-05
+2021-04,2021,4,Europe,Netherlands,6.35E-05
+2021-05,2021,5,Europe,Netherlands,5.07E-05
+2021-06,2021,6,Europe,Netherlands,5.59E-05
+2021-07,2021,7,Europe,Netherlands,3.39E-05
+2021-08,2021,8,Europe,Netherlands,4.10E-05
+2021-09,2021,9,Europe,Netherlands,6.96E-05
+2021-10,2021,10,Europe,Netherlands,7.93E-05
+2021-11,2021,11,Europe,Netherlands,6.95E-05
+2021-12,2021,12,Europe,Netherlands,8.42E-05
+2022-01,2022,1,Europe,Netherlands,7.94E-05
+2022-02,2022,2,Europe,Netherlands,7.14E-05
+2022-03,2022,3,Europe,Netherlands,0.00010341
+2022-04,2022,4,Europe,Netherlands,6.04E-05
+2022-05,2022,5,Europe,Netherlands,6.32E-05
+2022-06,2022,6,Europe,Netherlands,5.01E-05
+2022-07,2022,7,Europe,Netherlands,4.51E-05
+2022-08,2022,8,Europe,Netherlands,5.00E-05
+2022-09,2022,9,Europe,Netherlands,6.61E-05
+2022-10,2022,10,Europe,Netherlands,7.56E-05
+2022-11,2022,11,Europe,Netherlands,8.76E-05
+2022-12,2022,12,Europe,Netherlands,0.000112241
+2023-01,2023,1,Europe,Netherlands,7.56E-05
+2023-02,2023,2,Europe,Netherlands,9.15E-05
+2023-03,2023,3,Europe,Netherlands,6.13E-05
+2023-04,2023,4,Europe,Netherlands,5.93E-05
+2023-05,2023,5,Europe,Netherlands,5.17E-05
+2023-06,2023,6,Europe,Netherlands,4.79E-05
+2023-07,2023,7,Europe,Netherlands,3.96E-05
+2023-08,2023,8,Europe,Netherlands,4.83E-05
+2023-09,2023,9,Europe,Netherlands,6.65E-05
+2023-10,2023,10,Europe,Netherlands,6.51E-05
+2023-11,2023,11,Europe,Netherlands,5.83E-05
+2023-12,2023,12,Europe,Netherlands,6.32E-05
+2024-01,2024,1,Europe,Netherlands,6.76E-05
+2024-02,2024,2,Europe,Netherlands,4.53E-05
+2024-03,2024,3,Europe,Netherlands,6.31E-05
+2024-04,2024,4,Europe,Netherlands,4.63E-05
+2024-05,2024,5,Europe,Netherlands,5.14E-05
+2024-06,2024,6,Europe,Netherlands,3.93E-05
+2024-07,2024,7,Europe,Netherlands,3.75E-05
+2024-08,2024,8,Europe,Netherlands,4.74E-05
+2024-09,2024,9,Europe,Netherlands,5.60E-05
+2024-10,2024,10,Europe,Netherlands,7.89E-05
+2024-11,2024,11,Europe,Netherlands,7.67E-05
+2024-12,2024,12,Europe,Netherlands,6.85E-05
+2025-01,2025,1,Europe,Netherlands,7.87E-05
+2025-02,2025,2,Europe,Netherlands,0.000102145
+2025-03,2025,3,Europe,Netherlands,9.40E-05
+2025-04,2025,4,Europe,Netherlands,6.90E-05
+2025-05,2025,5,Europe,Netherlands,5.27E-05
+2025-06,2025,6,Europe,Netherlands,4.09E-05
+2025-07,2025,7,Europe,Netherlands,3.78E-05
+2025-08,2025,8,Europe,Netherlands,4.90E-05
+2025-09,2025,9,Europe,Netherlands,5.31E-05
+2025-10,2025,10,Europe,Netherlands,6.50E-05
+2025-11,2025,11,Europe,Netherlands,7.56E-05
+2025-12,2025,12,Europe,Netherlands,6.36E-05
+2026-01,2026,1,Europe,Netherlands,0.000105026
+2026-02,2026,2,Europe,Netherlands,7.83E-05
+2026-03,2026,3,Europe,Netherlands,7.19E-05
+2026-04,2026,4,Europe,Netherlands,6.02E-05
+2019-01,2019,1,Emerging Markets,Peru,6.59E-06
+2019-02,2019,2,Emerging Markets,Peru,6.54E-06
+2019-03,2019,3,Emerging Markets,Peru,6.86E-06
+2019-04,2019,4,Emerging Markets,Peru,6.22E-06
+2019-05,2019,5,Emerging Markets,Peru,5.92E-06
+2019-06,2019,6,Emerging Markets,Peru,6.28E-06
+2019-07,2019,7,Emerging Markets,Peru,7.06E-06
+2019-08,2019,8,Emerging Markets,Peru,1.13E-05
+2019-09,2019,9,Emerging Markets,Peru,1.09E-05
+2019-10,2019,10,Emerging Markets,Peru,7.97E-06
+2019-11,2019,11,Emerging Markets,Peru,6.24E-06
+2019-12,2019,12,Emerging Markets,Peru,6.67E-06
+2020-01,2020,1,Emerging Markets,Peru,6.49E-06
+2020-02,2020,2,Emerging Markets,Peru,6.49E-06
+2020-03,2020,3,Emerging Markets,Peru,7.18E-06
+2020-04,2020,4,Emerging Markets,Peru,5.35E-06
+2020-05,2020,5,Emerging Markets,Peru,5.20E-06
+2020-06,2020,6,Emerging Markets,Peru,5.68E-06
+2020-07,2020,7,Emerging Markets,Peru,7.23E-06
+2020-08,2020,8,Emerging Markets,Peru,1.01E-05
+2020-09,2020,9,Emerging Markets,Peru,1.07E-05
+2020-10,2020,10,Emerging Markets,Peru,6.59E-06
+2020-11,2020,11,Emerging Markets,Peru,6.60E-06
+2020-12,2020,12,Emerging Markets,Peru,6.00E-06
+2021-01,2021,1,Emerging Markets,Peru,6.09E-06
+2021-02,2021,2,Emerging Markets,Peru,6.37E-06
+2021-03,2021,3,Emerging Markets,Peru,6.49E-06
+2021-04,2021,4,Emerging Markets,Peru,6.07E-06
+2021-05,2021,5,Emerging Markets,Peru,5.78E-06
+2021-06,2021,6,Emerging Markets,Peru,6.13E-06
+2021-07,2021,7,Emerging Markets,Peru,7.86E-06
+2021-08,2021,8,Emerging Markets,Peru,1.18E-05
+2021-09,2021,9,Emerging Markets,Peru,1.12E-05
+2021-10,2021,10,Emerging Markets,Peru,7.00E-06
+2021-11,2021,11,Emerging Markets,Peru,7.23E-06
+2021-12,2021,12,Emerging Markets,Peru,7.77E-06
+2022-01,2022,1,Emerging Markets,Peru,6.61E-06
+2022-02,2022,2,Emerging Markets,Peru,7.09E-06
+2022-03,2022,3,Emerging Markets,Peru,6.72E-06
+2022-04,2022,4,Emerging Markets,Peru,5.65E-06
+2022-05,2022,5,Emerging Markets,Peru,6.13E-06
+2022-06,2022,6,Emerging Markets,Peru,6.95E-06
+2022-07,2022,7,Emerging Markets,Peru,7.32E-06
+2022-08,2022,8,Emerging Markets,Peru,1.19E-05
+2022-09,2022,9,Emerging Markets,Peru,1.21E-05
+2022-10,2022,10,Emerging Markets,Peru,8.38E-06
+2022-11,2022,11,Emerging Markets,Peru,7.41E-06
+2022-12,2022,12,Emerging Markets,Peru,7.57E-06
+2023-01,2023,1,Emerging Markets,Peru,6.60E-06
+2023-02,2023,2,Emerging Markets,Peru,6.24E-06
+2023-03,2023,3,Emerging Markets,Peru,6.13E-06
+2023-04,2023,4,Emerging Markets,Peru,5.81E-06
+2023-05,2023,5,Emerging Markets,Peru,6.21E-06
+2023-06,2023,6,Emerging Markets,Peru,6.64E-06
+2023-07,2023,7,Emerging Markets,Peru,7.29E-06
+2023-08,2023,8,Emerging Markets,Peru,1.01E-05
+2023-09,2023,9,Emerging Markets,Peru,9.92E-06
+2023-10,2023,10,Emerging Markets,Peru,6.93E-06
+2023-11,2023,11,Emerging Markets,Peru,5.40E-06
+2023-12,2023,12,Emerging Markets,Peru,3.98E-06
+2024-01,2024,1,Emerging Markets,Peru,5.39E-06
+2024-02,2024,2,Emerging Markets,Peru,6.39E-06
+2024-03,2024,3,Emerging Markets,Peru,5.92E-06
+2024-04,2024,4,Emerging Markets,Peru,6.57E-06
+2024-05,2024,5,Emerging Markets,Peru,6.64E-06
+2024-06,2024,6,Emerging Markets,Peru,6.45E-06
+2024-07,2024,7,Emerging Markets,Peru,8.05E-06
+2024-08,2024,8,Emerging Markets,Peru,1.12E-05
+2024-09,2024,9,Emerging Markets,Peru,1.22E-05
+2024-10,2024,10,Emerging Markets,Peru,8.60E-06
+2024-11,2024,11,Emerging Markets,Peru,8.34E-06
+2024-12,2024,12,Emerging Markets,Peru,6.32E-06
+2025-01,2025,1,Emerging Markets,Peru,6.81E-06
+2025-02,2025,2,Emerging Markets,Peru,6.30E-06
+2025-03,2025,3,Emerging Markets,Peru,6.03E-06
+2025-04,2025,4,Emerging Markets,Peru,5.85E-06
+2025-05,2025,5,Emerging Markets,Peru,6.33E-06
+2025-06,2025,6,Emerging Markets,Peru,6.35E-06
+2025-07,2025,7,Emerging Markets,Peru,7.92E-06
+2025-08,2025,8,Emerging Markets,Peru,1.04E-05
+2025-09,2025,9,Emerging Markets,Peru,1.12E-05
+2025-10,2025,10,Emerging Markets,Peru,8.07E-06
+2025-11,2025,11,Emerging Markets,Peru,6.87E-06
+2025-12,2025,12,Emerging Markets,Peru,7.20E-06
+2026-01,2026,1,Emerging Markets,Peru,6.69E-06
+2026-02,2026,2,Emerging Markets,Peru,6.31E-06
+2026-03,2026,3,Emerging Markets,Peru,7.44E-06
+2026-04,2026,4,Emerging Markets,Peru,6.68E-06
+2019-01,2019,1,Emerging Markets,Philippines,9.23E-06
+2019-02,2019,2,Emerging Markets,Philippines,1.13E-05
+2019-03,2019,3,Emerging Markets,Philippines,1.26E-05
+2019-04,2019,4,Emerging Markets,Philippines,1.12E-05
+2019-05,2019,5,Emerging Markets,Philippines,1.37E-05
+2019-06,2019,6,Emerging Markets,Philippines,1.20E-05
+2019-07,2019,7,Emerging Markets,Philippines,9.93E-06
+2019-08,2019,8,Emerging Markets,Philippines,7.81E-06
+2019-09,2019,9,Emerging Markets,Philippines,8.70E-06
+2019-10,2019,10,Emerging Markets,Philippines,1.04E-05
+2019-11,2019,11,Emerging Markets,Philippines,9.88E-06
+2019-12,2019,12,Emerging Markets,Philippines,9.31E-06
+2020-01,2020,1,Emerging Markets,Philippines,1.07E-05
+2020-02,2020,2,Emerging Markets,Philippines,9.02E-06
+2020-03,2020,3,Emerging Markets,Philippines,1.09E-05
+2020-04,2020,4,Emerging Markets,Philippines,1.17E-05
+2020-05,2020,5,Emerging Markets,Philippines,1.15E-05
+2020-06,2020,6,Emerging Markets,Philippines,9.95E-06
+2020-07,2020,7,Emerging Markets,Philippines,7.82E-06
+2020-08,2020,8,Emerging Markets,Philippines,8.13E-06
+2020-09,2020,9,Emerging Markets,Philippines,8.49E-06
+2020-10,2020,10,Emerging Markets,Philippines,1.01E-05
+2020-11,2020,11,Emerging Markets,Philippines,9.30E-06
+2020-12,2020,12,Emerging Markets,Philippines,8.76E-06
+2021-01,2021,1,Emerging Markets,Philippines,9.51E-06
+2021-02,2021,2,Emerging Markets,Philippines,1.03E-05
+2021-03,2021,3,Emerging Markets,Philippines,1.07E-05
+2021-04,2021,4,Emerging Markets,Philippines,1.37E-05
+2021-05,2021,5,Emerging Markets,Philippines,1.35E-05
+2021-06,2021,6,Emerging Markets,Philippines,1.18E-05
+2021-07,2021,7,Emerging Markets,Philippines,9.10E-06
+2021-08,2021,8,Emerging Markets,Philippines,9.04E-06
+2021-09,2021,9,Emerging Markets,Philippines,9.84E-06
+2021-10,2021,10,Emerging Markets,Philippines,9.73E-06
+2021-11,2021,11,Emerging Markets,Philippines,9.34E-06
+2021-12,2021,12,Emerging Markets,Philippines,8.65E-06
+2022-01,2022,1,Emerging Markets,Philippines,1.08E-05
+2022-02,2022,2,Emerging Markets,Philippines,8.31E-06
+2022-03,2022,3,Emerging Markets,Philippines,9.63E-06
+2022-04,2022,4,Emerging Markets,Philippines,9.43E-06
+2022-05,2022,5,Emerging Markets,Philippines,1.12E-05
+2022-06,2022,6,Emerging Markets,Philippines,1.03E-05
+2022-07,2022,7,Emerging Markets,Philippines,8.60E-06
+2022-08,2022,8,Emerging Markets,Philippines,9.31E-06
+2022-09,2022,9,Emerging Markets,Philippines,1.02E-05
+2022-10,2022,10,Emerging Markets,Philippines,1.09E-05
+2022-11,2022,11,Emerging Markets,Philippines,1.05E-05
+2022-12,2022,12,Emerging Markets,Philippines,1.11E-05
+2023-01,2023,1,Emerging Markets,Philippines,1.08E-05
+2023-02,2023,2,Emerging Markets,Philippines,1.06E-05
+2023-03,2023,3,Emerging Markets,Philippines,1.46E-05
+2023-04,2023,4,Emerging Markets,Philippines,1.63E-05
+2023-05,2023,5,Emerging Markets,Philippines,1.55E-05
+2023-06,2023,6,Emerging Markets,Philippines,1.20E-05
+2023-07,2023,7,Emerging Markets,Philippines,1.12E-05
+2023-08,2023,8,Emerging Markets,Philippines,9.67E-06
+2023-09,2023,9,Emerging Markets,Philippines,1.15E-05
+2023-10,2023,10,Emerging Markets,Philippines,1.07E-05
+2023-11,2023,11,Emerging Markets,Philippines,9.82E-06
+2023-12,2023,12,Emerging Markets,Philippines,8.68E-06
+2024-01,2024,1,Emerging Markets,Philippines,9.31E-06
+2024-02,2024,2,Emerging Markets,Philippines,1.11E-05
+2024-03,2024,3,Emerging Markets,Philippines,1.24E-05
+2024-04,2024,4,Emerging Markets,Philippines,1.42E-05
+2024-05,2024,5,Emerging Markets,Philippines,1.40E-05
+2024-06,2024,6,Emerging Markets,Philippines,1.18E-05
+2024-07,2024,7,Emerging Markets,Philippines,1.06E-05
+2024-08,2024,8,Emerging Markets,Philippines,9.68E-06
+2024-09,2024,9,Emerging Markets,Philippines,1.02E-05
+2024-10,2024,10,Emerging Markets,Philippines,1.21E-05
+2024-11,2024,11,Emerging Markets,Philippines,1.07E-05
+2024-12,2024,12,Emerging Markets,Philippines,9.40E-06
+2025-01,2025,1,Emerging Markets,Philippines,1.04E-05
+2025-02,2025,2,Emerging Markets,Philippines,9.19E-06
+2025-03,2025,3,Emerging Markets,Philippines,9.80E-06
+2025-04,2025,4,Emerging Markets,Philippines,1.25E-05
+2025-05,2025,5,Emerging Markets,Philippines,1.30E-05
+2025-06,2025,6,Emerging Markets,Philippines,1.11E-05
+2025-07,2025,7,Emerging Markets,Philippines,9.28E-06
+2025-08,2025,8,Emerging Markets,Philippines,9.40E-06
+2025-09,2025,9,Emerging Markets,Philippines,9.72E-06
+2025-10,2025,10,Emerging Markets,Philippines,8.69E-06
+2025-11,2025,11,Emerging Markets,Philippines,1.11E-05
+2025-12,2025,12,Emerging Markets,Philippines,1.10E-05
+2026-01,2026,1,Emerging Markets,Philippines,1.15E-05
+2026-02,2026,2,Emerging Markets,Philippines,1.00E-05
+2026-03,2026,3,Emerging Markets,Philippines,1.41E-05
+2026-04,2026,4,Emerging Markets,Philippines,1.66E-05
+2019-01,2019,1,Europe,Portugal,2.53E-05
+2019-02,2019,2,Europe,Portugal,2.21E-05
+2019-03,2019,3,Europe,Portugal,2.28E-05
+2019-04,2019,4,Europe,Portugal,1.86E-05
+2019-05,2019,5,Europe,Portugal,2.31E-05
+2019-06,2019,6,Europe,Portugal,1.92E-05
+2019-07,2019,7,Europe,Portugal,2.06E-05
+2019-08,2019,8,Europe,Portugal,2.07E-05
+2019-09,2019,9,Europe,Portugal,2.15E-05
+2019-10,2019,10,Europe,Portugal,2.35E-05
+2019-11,2019,11,Europe,Portugal,1.77E-05
+2019-12,2019,12,Europe,Portugal,2.66E-05
+2020-01,2020,1,Europe,Portugal,2.73E-05
+2020-02,2020,2,Europe,Portugal,2.33E-05
+2020-03,2020,3,Europe,Portugal,2.08E-05
+2020-04,2020,4,Europe,Portugal,1.61E-05
+2020-05,2020,5,Europe,Portugal,2.20E-05
+2020-06,2020,6,Europe,Portugal,1.89E-05
+2020-07,2020,7,Europe,Portugal,2.44E-05
+2020-08,2020,8,Europe,Portugal,2.05E-05
+2020-09,2020,9,Europe,Portugal,2.19E-05
+2020-10,2020,10,Europe,Portugal,2.26E-05
+2020-11,2020,11,Europe,Portugal,3.07E-05
+2020-12,2020,12,Europe,Portugal,2.39E-05
+2021-01,2021,1,Europe,Portugal,2.37E-05
+2021-02,2021,2,Europe,Portugal,1.71E-05
+2021-03,2021,3,Europe,Portugal,2.04E-05
+2021-04,2021,4,Europe,Portugal,2.19E-05
+2021-05,2021,5,Europe,Portugal,1.91E-05
+2021-06,2021,6,Europe,Portugal,2.10E-05
+2021-07,2021,7,Europe,Portugal,2.02E-05
+2021-08,2021,8,Europe,Portugal,2.29E-05
+2021-09,2021,9,Europe,Portugal,1.98E-05
+2021-10,2021,10,Europe,Portugal,2.46E-05
+2021-11,2021,11,Europe,Portugal,3.35E-05
+2021-12,2021,12,Europe,Portugal,3.23E-05
+2022-01,2022,1,Europe,Portugal,2.48E-05
+2022-02,2022,2,Europe,Portugal,2.80E-05
+2022-03,2022,3,Europe,Portugal,2.27E-05
+2022-04,2022,4,Europe,Portugal,2.33E-05
+2022-05,2022,5,Europe,Portugal,2.23E-05
+2022-06,2022,6,Europe,Portugal,1.94E-05
+2022-07,2022,7,Europe,Portugal,2.51E-05
+2022-08,2022,8,Europe,Portugal,2.60E-05
+2022-09,2022,9,Europe,Portugal,2.10E-05
+2022-10,2022,10,Europe,Portugal,2.62E-05
+2022-11,2022,11,Europe,Portugal,2.27E-05
+2022-12,2022,12,Europe,Portugal,3.07E-05
+2023-01,2023,1,Europe,Portugal,2.42E-05
+2023-02,2023,2,Europe,Portugal,3.00E-05
+2023-03,2023,3,Europe,Portugal,2.40E-05
+2023-04,2023,4,Europe,Portugal,2.14E-05
+2023-05,2023,5,Europe,Portugal,2.14E-05
+2023-06,2023,6,Europe,Portugal,2.51E-05
+2023-07,2023,7,Europe,Portugal,1.98E-05
+2023-08,2023,8,Europe,Portugal,2.13E-05
+2023-09,2023,9,Europe,Portugal,2.34E-05
+2023-10,2023,10,Europe,Portugal,2.80E-05
+2023-11,2023,11,Europe,Portugal,2.71E-05
+2023-12,2023,12,Europe,Portugal,3.17E-05
+2024-01,2024,1,Europe,Portugal,2.68E-05
+2024-02,2024,2,Europe,Portugal,2.28E-05
+2024-03,2024,3,Europe,Portugal,1.71E-05
+2024-04,2024,4,Europe,Portugal,1.85E-05
+2024-05,2024,5,Europe,Portugal,2.02E-05
+2024-06,2024,6,Europe,Portugal,2.06E-05
+2024-07,2024,7,Europe,Portugal,2.24E-05
+2024-08,2024,8,Europe,Portugal,2.34E-05
+2024-09,2024,9,Europe,Portugal,2.31E-05
+2024-10,2024,10,Europe,Portugal,2.31E-05
+2024-11,2024,11,Europe,Portugal,2.61E-05
+2024-12,2024,12,Europe,Portugal,2.71E-05
+2025-01,2025,1,Europe,Portugal,3.01E-05
+2025-02,2025,2,Europe,Portugal,2.21E-05
+2025-03,2025,3,Europe,Portugal,2.28E-05
+2025-04,2025,4,Europe,Portugal,2.07E-05
+2025-05,2025,5,Europe,Portugal,2.05E-05
+2025-06,2025,6,Europe,Portugal,1.99E-05
+2025-07,2025,7,Europe,Portugal,2.24E-05
+2025-08,2025,8,Europe,Portugal,2.61E-05
+2025-09,2025,9,Europe,Portugal,2.00E-05
+2025-10,2025,10,Europe,Portugal,2.97E-05
+2025-11,2025,11,Europe,Portugal,3.02E-05
+2025-12,2025,12,Europe,Portugal,2.14E-05
+2026-01,2026,1,Europe,Portugal,1.47E-05
+2026-02,2026,2,Europe,Portugal,2.66E-05
+2026-03,2026,3,Europe,Portugal,2.31E-05
+2026-04,2026,4,Europe,Portugal,2.04E-05
+2019-01,2019,1,Europe,Romania,2.73E-05
+2019-02,2019,2,Europe,Romania,2.68E-05
+2019-03,2019,3,Europe,Romania,2.66E-05
+2019-04,2019,4,Europe,Romania,2.33E-05
+2019-05,2019,5,Europe,Romania,1.65E-05
+2019-06,2019,6,Europe,Romania,1.95E-05
+2019-07,2019,7,Europe,Romania,1.69E-05
+2019-08,2019,8,Europe,Romania,2.02E-05
+2019-09,2019,9,Europe,Romania,2.24E-05
+2019-10,2019,10,Europe,Romania,2.72E-05
+2019-11,2019,11,Europe,Romania,3.32E-05
+2019-12,2019,12,Europe,Romania,3.22E-05
+2020-01,2020,1,Europe,Romania,2.87E-05
+2020-02,2020,2,Europe,Romania,2.70E-05
+2020-03,2020,3,Europe,Romania,2.27E-05
+2020-04,2020,4,Europe,Romania,2.33E-05
+2020-05,2020,5,Europe,Romania,1.80E-05
+2020-06,2020,6,Europe,Romania,1.86E-05
+2020-07,2020,7,Europe,Romania,1.80E-05
+2020-08,2020,8,Europe,Romania,1.96E-05
+2020-09,2020,9,Europe,Romania,2.22E-05
+2020-10,2020,10,Europe,Romania,2.50E-05
+2020-11,2020,11,Europe,Romania,2.66E-05
+2020-12,2020,12,Europe,Romania,3.41E-05
+2021-01,2021,1,Europe,Romania,2.89E-05
+2021-02,2021,2,Europe,Romania,1.87E-05
+2021-03,2021,3,Europe,Romania,2.49E-05
+2021-04,2021,4,Europe,Romania,1.99E-05
+2021-05,2021,5,Europe,Romania,1.82E-05
+2021-06,2021,6,Europe,Romania,1.75E-05
+2021-07,2021,7,Europe,Romania,1.80E-05
+2021-08,2021,8,Europe,Romania,1.64E-05
+2021-09,2021,9,Europe,Romania,2.18E-05
+2021-10,2021,10,Europe,Romania,2.80E-05
+2021-11,2021,11,Europe,Romania,3.56E-05
+2021-12,2021,12,Europe,Romania,4.20E-05
+2022-01,2022,1,Europe,Romania,3.21E-05
+2022-02,2022,2,Europe,Romania,3.09E-05
+2022-03,2022,3,Europe,Romania,2.43E-05
+2022-04,2022,4,Europe,Romania,2.38E-05
+2022-05,2022,5,Europe,Romania,1.94E-05
+2022-06,2022,6,Europe,Romania,2.00E-05
+2022-07,2022,7,Europe,Romania,1.96E-05
+2022-08,2022,8,Europe,Romania,2.26E-05
+2022-09,2022,9,Europe,Romania,2.09E-05
+2022-10,2022,10,Europe,Romania,2.63E-05
+2022-11,2022,11,Europe,Romania,3.43E-05
+2022-12,2022,12,Europe,Romania,3.05E-05
+2023-01,2023,1,Europe,Romania,3.00E-05
+2023-02,2023,2,Europe,Romania,2.22E-05
+2023-03,2023,3,Europe,Romania,2.33E-05
+2023-04,2023,4,Europe,Romania,1.78E-05
+2023-05,2023,5,Europe,Romania,1.73E-05
+2023-06,2023,6,Europe,Romania,2.02E-05
+2023-07,2023,7,Europe,Romania,2.06E-05
+2023-08,2023,8,Europe,Romania,2.10E-05
+2023-09,2023,9,Europe,Romania,2.26E-05
+2023-10,2023,10,Europe,Romania,2.69E-05
+2023-11,2023,11,Europe,Romania,3.09E-05
+2023-12,2023,12,Europe,Romania,3.42E-05
+2024-01,2024,1,Europe,Romania,2.27E-05
+2024-02,2024,2,Europe,Romania,2.60E-05
+2024-03,2024,3,Europe,Romania,2.31E-05
+2024-04,2024,4,Europe,Romania,2.28E-05
+2024-05,2024,5,Europe,Romania,2.05E-05
+2024-06,2024,6,Europe,Romania,1.85E-05
+2024-07,2024,7,Europe,Romania,2.02E-05
+2024-08,2024,8,Europe,Romania,2.23E-05
+2024-09,2024,9,Europe,Romania,2.20E-05
+2024-10,2024,10,Europe,Romania,2.51E-05
+2024-11,2024,11,Europe,Romania,3.26E-05
+2024-12,2024,12,Europe,Romania,3.80E-05
+2025-01,2025,1,Europe,Romania,3.39E-05
+2025-02,2025,2,Europe,Romania,2.30E-05
+2025-03,2025,3,Europe,Romania,2.87E-05
+2025-04,2025,4,Europe,Romania,1.94E-05
+2025-05,2025,5,Europe,Romania,1.86E-05
+2025-06,2025,6,Europe,Romania,1.96E-05
+2025-07,2025,7,Europe,Romania,2.23E-05
+2025-08,2025,8,Europe,Romania,2.25E-05
+2025-09,2025,9,Europe,Romania,2.31E-05
+2025-10,2025,10,Europe,Romania,2.68E-05
+2025-11,2025,11,Europe,Romania,3.34E-05
+2025-12,2025,12,Europe,Romania,3.68E-05
+2026-01,2026,1,Europe,Romania,2.75E-05
+2026-02,2026,2,Europe,Romania,2.46E-05
+2026-03,2026,3,Europe,Romania,2.25E-05
+2026-04,2026,4,Europe,Romania,1.93E-05
+2019-01,2019,1,Europe,Spain,2.43E-05
+2019-02,2019,2,Europe,Spain,2.55E-05
+2019-03,2019,3,Europe,Spain,2.40E-05
+2019-04,2019,4,Europe,Spain,2.20E-05
+2019-05,2019,5,Europe,Spain,2.15E-05
+2019-06,2019,6,Europe,Spain,2.02E-05
+2019-07,2019,7,Europe,Spain,2.09E-05
+2019-08,2019,8,Europe,Spain,1.99E-05
+2019-09,2019,9,Europe,Spain,2.07E-05
+2019-10,2019,10,Europe,Spain,2.33E-05
+2019-11,2019,11,Europe,Spain,1.95E-05
+2019-12,2019,12,Europe,Spain,2.49E-05
+2020-01,2020,1,Europe,Spain,3.04E-05
+2020-02,2020,2,Europe,Spain,2.67E-05
+2020-03,2020,3,Europe,Spain,2.07E-05
+2020-04,2020,4,Europe,Spain,1.70E-05
+2020-05,2020,5,Europe,Spain,2.09E-05
+2020-06,2020,6,Europe,Spain,1.95E-05
+2020-07,2020,7,Europe,Spain,2.16E-05
+2020-08,2020,8,Europe,Spain,1.98E-05
+2020-09,2020,9,Europe,Spain,1.95E-05
+2020-10,2020,10,Europe,Spain,2.12E-05
+2020-11,2020,11,Europe,Spain,3.07E-05
+2020-12,2020,12,Europe,Spain,2.44E-05
+2021-01,2021,1,Europe,Spain,2.35E-05
+2021-02,2021,2,Europe,Spain,2.11E-05
+2021-03,2021,3,Europe,Spain,2.22E-05
+2021-04,2021,4,Europe,Spain,2.14E-05
+2021-05,2021,5,Europe,Spain,1.86E-05
+2021-06,2021,6,Europe,Spain,2.03E-05
+2021-07,2021,7,Europe,Spain,2.00E-05
+2021-08,2021,8,Europe,Spain,2.03E-05
+2021-09,2021,9,Europe,Spain,2.06E-05
+2021-10,2021,10,Europe,Spain,2.29E-05
+2021-11,2021,11,Europe,Spain,3.00E-05
+2021-12,2021,12,Europe,Spain,3.31E-05
+2022-01,2022,1,Europe,Spain,2.43E-05
+2022-02,2022,2,Europe,Spain,2.95E-05
+2022-03,2022,3,Europe,Spain,2.32E-05
+2022-04,2022,4,Europe,Spain,2.15E-05
+2022-05,2022,5,Europe,Spain,2.00E-05
+2022-06,2022,6,Europe,Spain,1.90E-05
+2022-07,2022,7,Europe,Spain,2.23E-05
+2022-08,2022,8,Europe,Spain,2.10E-05
+2022-09,2022,9,Europe,Spain,1.97E-05
+2022-10,2022,10,Europe,Spain,2.33E-05
+2022-11,2022,11,Europe,Spain,2.57E-05
+2022-12,2022,12,Europe,Spain,2.79E-05
+2023-01,2023,1,Europe,Spain,2.51E-05
+2023-02,2023,2,Europe,Spain,3.00E-05
+2023-03,2023,3,Europe,Spain,2.39E-05
+2023-04,2023,4,Europe,Spain,1.98E-05
+2023-05,2023,5,Europe,Spain,2.00E-05
+2023-06,2023,6,Europe,Spain,2.32E-05
+2023-07,2023,7,Europe,Spain,1.86E-05
+2023-08,2023,8,Europe,Spain,1.99E-05
+2023-09,2023,9,Europe,Spain,2.16E-05
+2023-10,2023,10,Europe,Spain,2.17E-05
+2023-11,2023,11,Europe,Spain,2.61E-05
+2023-12,2023,12,Europe,Spain,3.02E-05
+2024-01,2024,1,Europe,Spain,2.29E-05
+2024-02,2024,2,Europe,Spain,2.23E-05
+2024-03,2024,3,Europe,Spain,1.92E-05
+2024-04,2024,4,Europe,Spain,1.86E-05
+2024-05,2024,5,Europe,Spain,1.85E-05
+2024-06,2024,6,Europe,Spain,1.94E-05
+2024-07,2024,7,Europe,Spain,1.99E-05
+2024-08,2024,8,Europe,Spain,2.06E-05
+2024-09,2024,9,Europe,Spain,1.92E-05
+2024-10,2024,10,Europe,Spain,2.17E-05
+2024-11,2024,11,Europe,Spain,2.77E-05
+2024-12,2024,12,Europe,Spain,2.67E-05
+2025-01,2025,1,Europe,Spain,3.09E-05
+2025-02,2025,2,Europe,Spain,2.25E-05
+2025-03,2025,3,Europe,Spain,2.19E-05
+2025-04,2025,4,Europe,Spain,2.15E-05
+2025-05,2025,5,Europe,Spain,1.96E-05
+2025-06,2025,6,Europe,Spain,2.07E-05
+2025-07,2025,7,Europe,Spain,1.96E-05
+2025-08,2025,8,Europe,Spain,2.14E-05
+2025-09,2025,9,Europe,Spain,1.87E-05
+2025-10,2025,10,Europe,Spain,2.47E-05
+2025-11,2025,11,Europe,Spain,2.81E-05
+2025-12,2025,12,Europe,Spain,2.43E-05
+2026-01,2026,1,Europe,Spain,1.78E-05
+2026-02,2026,2,Europe,Spain,2.49E-05
+2026-03,2026,3,Europe,Spain,2.28E-05
+2026-04,2026,4,Europe,Spain,1.90E-05
+2019-01,2019,1,Europe,Sweden,6.28E-06
+2019-02,2019,2,Europe,Sweden,1.11E-05
+2019-03,2019,3,Europe,Sweden,7.82E-06
+2019-04,2019,4,Europe,Sweden,1.19E-05
+2019-05,2019,5,Europe,Sweden,1.06E-05
+2019-06,2019,6,Europe,Sweden,1.01E-05
+2019-07,2019,7,Europe,Sweden,7.06E-06
+2019-08,2019,8,Europe,Sweden,1.15E-05
+2019-09,2019,9,Europe,Sweden,9.88E-06
+2019-10,2019,10,Europe,Sweden,1.15E-05
+2019-11,2019,11,Europe,Sweden,1.57E-05
+2019-12,2019,12,Europe,Sweden,5.47E-06
+2020-01,2020,1,Europe,Sweden,2.47E-05
+2020-02,2020,2,Europe,Sweden,8.57E-06
+2020-03,2020,3,Europe,Sweden,7.95E-06
+2020-04,2020,4,Europe,Sweden,9.47E-06
+2020-05,2020,5,Europe,Sweden,8.94E-06
+2020-06,2020,6,Europe,Sweden,1.14E-05
+2020-07,2020,7,Europe,Sweden,5.46E-06
+2020-08,2020,8,Europe,Sweden,1.14E-05
+2020-09,2020,9,Europe,Sweden,1.17E-05
+2020-10,2020,10,Europe,Sweden,1.33E-05
+2020-11,2020,11,Europe,Sweden,1.48E-05
+2020-12,2020,12,Europe,Sweden,2.00E-05
+2021-01,2021,1,Europe,Sweden,1.79E-06
+2021-02,2021,2,Europe,Sweden,2.08E-05
+2021-03,2021,3,Europe,Sweden,9.77E-06
+2021-04,2021,4,Europe,Sweden,1.00E-05
+2021-05,2021,5,Europe,Sweden,1.15E-05
+2021-06,2021,6,Europe,Sweden,8.12E-06
+2021-07,2021,7,Europe,Sweden,9.47E-06
+2021-08,2021,8,Europe,Sweden,9.93E-06
+2021-09,2021,9,Europe,Sweden,1.19E-05
+2021-10,2021,10,Europe,Sweden,1.45E-05
+2021-11,2021,11,Europe,Sweden,6.26E-06
+2021-12,2021,12,Europe,Sweden,1.26E-05
+2022-01,2022,1,Europe,Sweden,1.68E-05
+2022-02,2022,2,Europe,Sweden,2.87E-05
+2022-03,2022,3,Europe,Sweden,1.14E-05
+2022-04,2022,4,Europe,Sweden,9.03E-06
+2022-05,2022,5,Europe,Sweden,9.22E-06
+2022-06,2022,6,Europe,Sweden,8.74E-06
+2022-07,2022,7,Europe,Sweden,7.46E-06
+2022-08,2022,8,Europe,Sweden,1.10E-05
+2022-09,2022,9,Europe,Sweden,1.14E-05
+2022-10,2022,10,Europe,Sweden,1.41E-05
+2022-11,2022,11,Europe,Sweden,1.98E-05
+2022-12,2022,12,Europe,Sweden,2.06E-05
+2023-01,2023,1,Europe,Sweden,2.46E-05
+2023-02,2023,2,Europe,Sweden,3.48E-06
+2023-03,2023,3,Europe,Sweden,8.02E-06
+2023-04,2023,4,Europe,Sweden,1.08E-05
+2023-05,2023,5,Europe,Sweden,9.43E-06
+2023-06,2023,6,Europe,Sweden,1.02E-05
+2023-07,2023,7,Europe,Sweden,6.48E-06
+2023-08,2023,8,Europe,Sweden,1.18E-05
+2023-09,2023,9,Europe,Sweden,1.26E-05
+2023-10,2023,10,Europe,Sweden,1.07E-05
+2023-11,2023,11,Europe,Sweden,7.90E-06
+2023-12,2023,12,Europe,Sweden,-7.35E-06
+2024-01,2024,1,Europe,Sweden,1.30E-05
+2024-02,2024,2,Europe,Sweden,8.44E-06
+2024-03,2024,3,Europe,Sweden,9.77E-06
+2024-04,2024,4,Europe,Sweden,9.85E-06
+2024-05,2024,5,Europe,Sweden,1.15E-05
+2024-06,2024,6,Europe,Sweden,7.27E-06
+2024-07,2024,7,Europe,Sweden,5.49E-06
+2024-08,2024,8,Europe,Sweden,1.19E-05
+2024-09,2024,9,Europe,Sweden,1.34E-05
+2024-10,2024,10,Europe,Sweden,1.48E-05
+2024-11,2024,11,Europe,Sweden,1.07E-05
+2024-12,2024,12,Europe,Sweden,3.00E-05
+2025-01,2025,1,Europe,Sweden,2.88E-05
+2025-02,2025,2,Europe,Sweden,1.62E-05
+2025-03,2025,3,Europe,Sweden,1.18E-05
+2025-04,2025,4,Europe,Sweden,9.89E-06
+2025-05,2025,5,Europe,Sweden,1.09E-05
+2025-06,2025,6,Europe,Sweden,1.05E-05
+2025-07,2025,7,Europe,Sweden,1.21E-05
+2025-08,2025,8,Europe,Sweden,1.15E-05
+2025-09,2025,9,Europe,Sweden,1.43E-05
+2025-10,2025,10,Europe,Sweden,1.09E-05
+2025-11,2025,11,Europe,Sweden,9.17E-06
+2025-12,2025,12,Europe,Sweden,2.05E-05
+2026-01,2026,1,Europe,Sweden,1.93E-05
+2026-02,2026,2,Europe,Sweden,8.66E-06
+2026-03,2026,3,Europe,Sweden,1.13E-05
+2026-04,2026,4,Europe,Sweden,1.24E-05
+2019-01,2019,1,Emerging Markets,Thailand,2.47E-05
+2019-02,2019,2,Emerging Markets,Thailand,2.89E-05
+2019-03,2019,3,Emerging Markets,Thailand,3.80E-05
+2019-04,2019,4,Emerging Markets,Thailand,2.67E-05
+2019-05,2019,5,Emerging Markets,Thailand,2.13E-05
+2019-06,2019,6,Emerging Markets,Thailand,1.67E-05
+2019-07,2019,7,Emerging Markets,Thailand,1.54E-05
+2019-08,2019,8,Emerging Markets,Thailand,1.41E-05
+2019-09,2019,9,Emerging Markets,Thailand,1.54E-05
+2019-10,2019,10,Emerging Markets,Thailand,1.76E-05
+2019-11,2019,11,Emerging Markets,Thailand,1.89E-05
+2019-12,2019,12,Emerging Markets,Thailand,2.02E-05
+2020-01,2020,1,Emerging Markets,Thailand,2.42E-05
+2020-02,2020,2,Emerging Markets,Thailand,2.57E-05
+2020-03,2020,3,Emerging Markets,Thailand,3.24E-05
+2020-04,2020,4,Emerging Markets,Thailand,2.64E-05
+2020-05,2020,5,Emerging Markets,Thailand,1.99E-05
+2020-06,2020,6,Emerging Markets,Thailand,1.73E-05
+2020-07,2020,7,Emerging Markets,Thailand,1.45E-05
+2020-08,2020,8,Emerging Markets,Thailand,1.38E-05
+2020-09,2020,9,Emerging Markets,Thailand,1.55E-05
+2020-10,2020,10,Emerging Markets,Thailand,1.44E-05
+2020-11,2020,11,Emerging Markets,Thailand,1.63E-05
+2020-12,2020,12,Emerging Markets,Thailand,1.91E-05
+2021-01,2021,1,Emerging Markets,Thailand,2.27E-05
+2021-02,2021,2,Emerging Markets,Thailand,2.67E-05
+2021-03,2021,3,Emerging Markets,Thailand,3.31E-05
+2021-04,2021,4,Emerging Markets,Thailand,2.51E-05
+2021-05,2021,5,Emerging Markets,Thailand,2.08E-05
+2021-06,2021,6,Emerging Markets,Thailand,1.66E-05
+2021-07,2021,7,Emerging Markets,Thailand,1.47E-05
+2021-08,2021,8,Emerging Markets,Thailand,1.47E-05
+2021-09,2021,9,Emerging Markets,Thailand,1.59E-05
+2021-10,2021,10,Emerging Markets,Thailand,1.54E-05
+2021-11,2021,11,Emerging Markets,Thailand,1.72E-05
+2021-12,2021,12,Emerging Markets,Thailand,2.04E-05
+2022-01,2022,1,Emerging Markets,Thailand,2.26E-05
+2022-02,2022,2,Emerging Markets,Thailand,2.14E-05
+2022-03,2022,3,Emerging Markets,Thailand,2.60E-05
+2022-04,2022,4,Emerging Markets,Thailand,2.55E-05
+2022-05,2022,5,Emerging Markets,Thailand,1.52E-05
+2022-06,2022,6,Emerging Markets,Thailand,1.58E-05
+2022-07,2022,7,Emerging Markets,Thailand,1.64E-05
+2022-08,2022,8,Emerging Markets,Thailand,1.51E-05
+2022-09,2022,9,Emerging Markets,Thailand,1.75E-05
+2022-10,2022,10,Emerging Markets,Thailand,1.79E-05
+2022-11,2022,11,Emerging Markets,Thailand,1.89E-05
+2022-12,2022,12,Emerging Markets,Thailand,2.19E-05
+2023-01,2023,1,Emerging Markets,Thailand,2.48E-05
+2023-02,2023,2,Emerging Markets,Thailand,2.94E-05
+2023-03,2023,3,Emerging Markets,Thailand,3.78E-05
+2023-04,2023,4,Emerging Markets,Thailand,3.15E-05
+2023-05,2023,5,Emerging Markets,Thailand,2.35E-05
+2023-06,2023,6,Emerging Markets,Thailand,2.00E-05
+2023-07,2023,7,Emerging Markets,Thailand,1.81E-05
+2023-08,2023,8,Emerging Markets,Thailand,1.63E-05
+2023-09,2023,9,Emerging Markets,Thailand,1.80E-05
+2023-10,2023,10,Emerging Markets,Thailand,1.75E-05
+2023-11,2023,11,Emerging Markets,Thailand,1.80E-05
+2023-12,2023,12,Emerging Markets,Thailand,1.85E-05
+2024-01,2024,1,Emerging Markets,Thailand,2.22E-05
+2024-02,2024,2,Emerging Markets,Thailand,2.68E-05
+2024-03,2024,3,Emerging Markets,Thailand,3.14E-05
+2024-04,2024,4,Emerging Markets,Thailand,2.75E-05
+2024-05,2024,5,Emerging Markets,Thailand,2.25E-05
+2024-06,2024,6,Emerging Markets,Thailand,1.72E-05
+2024-07,2024,7,Emerging Markets,Thailand,1.67E-05
+2024-08,2024,8,Emerging Markets,Thailand,1.45E-05
+2024-09,2024,9,Emerging Markets,Thailand,1.65E-05
+2024-10,2024,10,Emerging Markets,Thailand,1.83E-05
+2024-11,2024,11,Emerging Markets,Thailand,1.82E-05
+2024-12,2024,12,Emerging Markets,Thailand,2.13E-05
+2025-01,2025,1,Emerging Markets,Thailand,2.64E-05
+2025-02,2025,2,Emerging Markets,Thailand,2.54E-05
+2025-03,2025,3,Emerging Markets,Thailand,3.14E-05
+2025-04,2025,4,Emerging Markets,Thailand,2.38E-05
+2025-05,2025,5,Emerging Markets,Thailand,1.90E-05
+2025-06,2025,6,Emerging Markets,Thailand,1.53E-05
+2025-07,2025,7,Emerging Markets,Thailand,1.42E-05
+2025-08,2025,8,Emerging Markets,Thailand,1.51E-05
+2025-09,2025,9,Emerging Markets,Thailand,1.58E-05
+2025-10,2025,10,Emerging Markets,Thailand,1.45E-05
+2025-11,2025,11,Emerging Markets,Thailand,1.96E-05
+2025-12,2025,12,Emerging Markets,Thailand,2.04E-05
+2026-01,2026,1,Emerging Markets,Thailand,2.28E-05
+2026-02,2026,2,Emerging Markets,Thailand,2.29E-05
+2026-03,2026,3,Emerging Markets,Thailand,2.98E-05
+2026-04,2026,4,Emerging Markets,Thailand,3.23E-05
+2019-01,2019,1,Europe,United Kingdom,2.54E-05
+2019-02,2019,2,Europe,United Kingdom,5.31E-05
+2019-03,2019,3,Europe,United Kingdom,2.49E-05
+2019-04,2019,4,Europe,United Kingdom,4.26E-05
+2019-05,2019,5,Europe,United Kingdom,3.21E-05
+2019-06,2019,6,Europe,United Kingdom,2.80E-05
+2019-07,2019,7,Europe,United Kingdom,2.69E-05
+2019-08,2019,8,Europe,United Kingdom,2.47E-05
+2019-09,2019,9,Europe,United Kingdom,3.32E-05
+2019-10,2019,10,Europe,United Kingdom,3.38E-05
+2019-11,2019,11,Europe,United Kingdom,3.98E-05
+2019-12,2019,12,Europe,United Kingdom,2.88E-05
+2020-01,2020,1,Europe,United Kingdom,2.63E-05
+2020-02,2020,2,Europe,United Kingdom,2.38E-05
+2020-03,2020,3,Europe,United Kingdom,2.99E-05
+2020-04,2020,4,Europe,United Kingdom,3.28E-05
+2020-05,2020,5,Europe,United Kingdom,2.78E-05
+2020-06,2020,6,Europe,United Kingdom,2.58E-05
+2020-07,2020,7,Europe,United Kingdom,1.98E-05
+2020-08,2020,8,Europe,United Kingdom,2.77E-05
+2020-09,2020,9,Europe,United Kingdom,3.12E-05
+2020-10,2020,10,Europe,United Kingdom,2.46E-05
+2020-11,2020,11,Europe,United Kingdom,4.09E-05
+2020-12,2020,12,Europe,United Kingdom,2.99E-05
+2021-01,2021,1,Europe,United Kingdom,2.00E-05
+2021-02,2021,2,Europe,United Kingdom,4.78E-05
+2021-03,2021,3,Europe,United Kingdom,3.34E-05
+2021-04,2021,4,Europe,United Kingdom,3.82E-05
+2021-05,2021,5,Europe,United Kingdom,2.90E-05
+2021-06,2021,6,Europe,United Kingdom,3.18E-05
+2021-07,2021,7,Europe,United Kingdom,2.92E-05
+2021-08,2021,8,Europe,United Kingdom,2.98E-05
+2021-09,2021,9,Europe,United Kingdom,3.49E-05
+2021-10,2021,10,Europe,United Kingdom,3.26E-05
+2021-11,2021,11,Europe,United Kingdom,3.23E-05
+2021-12,2021,12,Europe,United Kingdom,3.02E-05
+2022-01,2022,1,Europe,United Kingdom,4.38E-05
+2022-02,2022,2,Europe,United Kingdom,3.09E-05
+2022-03,2022,3,Europe,United Kingdom,4.65E-05
+2022-04,2022,4,Europe,United Kingdom,3.29E-05
+2022-05,2022,5,Europe,United Kingdom,2.85E-05
+2022-06,2022,6,Europe,United Kingdom,2.88E-05
+2022-07,2022,7,Europe,United Kingdom,2.88E-05
+2022-08,2022,8,Europe,United Kingdom,3.17E-05
+2022-09,2022,9,Europe,United Kingdom,3.23E-05
+2022-10,2022,10,Europe,United Kingdom,3.71E-05
+2022-11,2022,11,Europe,United Kingdom,4.52E-05
+2022-12,2022,12,Europe,United Kingdom,3.75E-05
+2023-01,2023,1,Europe,United Kingdom,4.08E-05
+2023-02,2023,2,Europe,United Kingdom,3.01E-05
+2023-03,2023,3,Europe,United Kingdom,3.11E-05
+2023-04,2023,4,Europe,United Kingdom,3.76E-05
+2023-05,2023,5,Europe,United Kingdom,3.19E-05
+2023-06,2023,6,Europe,United Kingdom,3.46E-05
+2023-07,2023,7,Europe,United Kingdom,2.25E-05
+2023-08,2023,8,Europe,United Kingdom,2.43E-05
+2023-09,2023,9,Europe,United Kingdom,3.71E-05
+2023-10,2023,10,Europe,United Kingdom,3.64E-05
+2023-11,2023,11,Europe,United Kingdom,3.46E-05
+2023-12,2023,12,Europe,United Kingdom,2.99E-05
+2024-01,2024,1,Europe,United Kingdom,2.13E-05
+2024-02,2024,2,Europe,United Kingdom,2.29E-05
+2024-03,2024,3,Europe,United Kingdom,3.07E-05
+2024-04,2024,4,Europe,United Kingdom,2.24E-05
+2024-05,2024,5,Europe,United Kingdom,3.11E-05
+2024-06,2024,6,Europe,United Kingdom,2.22E-05
+2024-07,2024,7,Europe,United Kingdom,2.17E-05
+2024-08,2024,8,Europe,United Kingdom,2.38E-05
+2024-09,2024,9,Europe,United Kingdom,3.58E-05
+2024-10,2024,10,Europe,United Kingdom,4.28E-05
+2024-11,2024,11,Europe,United Kingdom,3.78E-05
+2024-12,2024,12,Europe,United Kingdom,3.19E-05
+2025-01,2025,1,Europe,United Kingdom,3.71E-05
+2025-02,2025,2,Europe,United Kingdom,4.70E-05
+2025-03,2025,3,Europe,United Kingdom,4.94E-05
+2025-04,2025,4,Europe,United Kingdom,4.48E-05
+2025-05,2025,5,Europe,United Kingdom,3.50E-05
+2025-06,2025,6,Europe,United Kingdom,2.55E-05
+2025-07,2025,7,Europe,United Kingdom,2.85E-05
+2025-08,2025,8,Europe,United Kingdom,3.04E-05
+2025-09,2025,9,Europe,United Kingdom,2.96E-05
+2025-10,2025,10,Europe,United Kingdom,3.44E-05
+2025-11,2025,11,Europe,United Kingdom,2.32E-05
+2025-12,2025,12,Europe,United Kingdom,3.63E-05
+2026-01,2026,1,Europe,United Kingdom,3.51E-05
+2026-02,2026,2,Europe,United Kingdom,2.91E-05
+2026-03,2026,3,Europe,United Kingdom,3.37E-05
+2026-04,2026,4,Europe,United Kingdom,3.87E-05
+2019-01,2019,1,North America,United States,2.84E-05
+2019-02,2019,2,North America,United States,2.41E-05
+2019-03,2019,3,North America,United States,2.49E-05
+2019-04,2019,4,North America,United States,1.97E-05
+2019-05,2019,5,North America,United States,1.92E-05
+2019-06,2019,6,North America,United States,1.98E-05
+2019-07,2019,7,North America,United States,2.06E-05
+2019-08,2019,8,North America,United States,2.10E-05
+2019-09,2019,9,North America,United States,2.16E-05
+2019-10,2019,10,North America,United States,2.22E-05
+2019-11,2019,11,North America,United States,2.58E-05
+2019-12,2019,12,North America,United States,3.04E-05
+2020-01,2020,1,North America,United States,3.05E-05
+2020-02,2020,2,North America,United States,2.76E-05
+2020-03,2020,3,North America,United States,2.06E-05
+2020-04,2020,4,North America,United States,2.09E-05
+2020-05,2020,5,North America,United States,1.86E-05
+2020-06,2020,6,North America,United States,2.13E-05
+2020-07,2020,7,North America,United States,2.08E-05
+2020-08,2020,8,North America,United States,2.01E-05
+2020-09,2020,9,North America,United States,1.93E-05
+2020-10,2020,10,North America,United States,2.13E-05
+2020-11,2020,11,North America,United States,2.68E-05
+2020-12,2020,12,North America,United States,3.28E-05
+2021-01,2021,1,North America,United States,3.14E-05
+2021-02,2021,2,North America,United States,2.92E-05
+2021-03,2021,3,North America,United States,2.45E-05
+2021-04,2021,4,North America,United States,2.08E-05
+2021-05,2021,5,North America,United States,2.04E-05
+2021-06,2021,6,North America,United States,2.18E-05
+2021-07,2021,7,North America,United States,2.33E-05
+2021-08,2021,8,North America,United States,2.21E-05
+2021-09,2021,9,North America,United States,2.24E-05
+2021-10,2021,10,North America,United States,2.53E-05
+2021-11,2021,11,North America,United States,3.22E-05
+2021-12,2021,12,North America,United States,3.50E-05
+2022-01,2022,1,North America,United States,3.16E-05
+2022-02,2022,2,North America,United States,3.27E-05
+2022-03,2022,3,North America,United States,2.95E-05
+2022-04,2022,4,North America,United States,2.29E-05
+2022-05,2022,5,North America,United States,2.20E-05
+2022-06,2022,6,North America,United States,2.37E-05
+2022-07,2022,7,North America,United States,2.39E-05
+2022-08,2022,8,North America,United States,2.31E-05
+2022-09,2022,9,North America,United States,2.31E-05
+2022-10,2022,10,North America,United States,2.56E-05
+2022-11,2022,11,North America,United States,3.20E-05
+2022-12,2022,12,North America,United States,3.07E-05
+2023-01,2023,1,North America,United States,3.03E-05
+2023-02,2023,2,North America,United States,3.19E-05
+2023-03,2023,3,North America,United States,2.30E-05
+2023-04,2023,4,North America,United States,2.28E-05
+2023-05,2023,5,North America,United States,2.41E-05
+2023-06,2023,6,North America,United States,2.08E-05
+2023-07,2023,7,North America,United States,2.31E-05
+2023-08,2023,8,North America,United States,2.26E-05
+2023-09,2023,9,North America,United States,2.43E-05
+2023-10,2023,10,North America,United States,2.36E-05
+2023-11,2023,11,North America,United States,3.29E-05
+2023-12,2023,12,North America,United States,2.94E-05
+2024-01,2024,1,North America,United States,3.14E-05
+2024-02,2024,2,North America,United States,3.44E-05
+2024-03,2024,3,North America,United States,2.54E-05
+2024-04,2024,4,North America,United States,2.07E-05
+2024-05,2024,5,North America,United States,1.89E-05
+2024-06,2024,6,North America,United States,2.17E-05
+2024-07,2024,7,North America,United States,2.23E-05
+2024-08,2024,8,North America,United States,2.26E-05
+2024-09,2024,9,North America,United States,2.24E-05
+2024-10,2024,10,North America,United States,2.61E-05
+2024-11,2024,11,North America,United States,3.10E-05
+2024-12,2024,12,North America,United States,3.02E-05
+2025-01,2025,1,North America,United States,3.34E-05
+2025-02,2025,2,North America,United States,3.19E-05
+2025-03,2025,3,North America,United States,2.97E-05
+2025-04,2025,4,North America,United States,2.18E-05
+2025-05,2025,5,North America,United States,2.07E-05
+2025-06,2025,6,North America,United States,2.09E-05
+2025-07,2025,7,North America,United States,2.36E-05
+2025-08,2025,8,North America,United States,2.14E-05
+2025-09,2025,9,North America,United States,2.32E-05
+2025-10,2025,10,North America,United States,2.47E-05
+2025-11,2025,11,North America,United States,3.33E-05
+2025-12,2025,12,North America,United States,3.25E-05
+2026-01,2026,1,North America,United States,3.34E-05
+2026-02,2026,2,North America,United States,3.19E-05
+2026-03,2026,3,North America,United States,2.59E-05
+2026-04,2026,4,North America,United States,2.17E-05
+2019-01,2019,1,Emerging Markets,Vietnam,2.23E-05
+2019-02,2019,2,Emerging Markets,Vietnam,2.25E-05
+2019-03,2019,3,Emerging Markets,Vietnam,3.27E-05
+2019-04,2019,4,Emerging Markets,Vietnam,2.57E-05
+2019-05,2019,5,Emerging Markets,Vietnam,2.52E-05
+2019-06,2019,6,Emerging Markets,Vietnam,2.06E-05
+2019-07,2019,7,Emerging Markets,Vietnam,1.74E-05
+2019-08,2019,8,Emerging Markets,Vietnam,1.77E-05
+2019-09,2019,9,Emerging Markets,Vietnam,1.82E-05
+2019-10,2019,10,Emerging Markets,Vietnam,2.06E-05
+2019-11,2019,11,Emerging Markets,Vietnam,2.25E-05
+2019-12,2019,12,Emerging Markets,Vietnam,2.36E-05
+2020-01,2020,1,Emerging Markets,Vietnam,2.25E-05
+2020-02,2020,2,Emerging Markets,Vietnam,2.32E-05
+2020-03,2020,3,Emerging Markets,Vietnam,3.19E-05
+2020-04,2020,4,Emerging Markets,Vietnam,2.36E-05
+2020-05,2020,5,Emerging Markets,Vietnam,2.17E-05
+2020-06,2020,6,Emerging Markets,Vietnam,2.10E-05
+2020-07,2020,7,Emerging Markets,Vietnam,1.73E-05
+2020-08,2020,8,Emerging Markets,Vietnam,1.72E-05
+2020-09,2020,9,Emerging Markets,Vietnam,1.77E-05
+2020-10,2020,10,Emerging Markets,Vietnam,1.90E-05
+2020-11,2020,11,Emerging Markets,Vietnam,2.02E-05
+2020-12,2020,12,Emerging Markets,Vietnam,2.47E-05
+2021-01,2021,1,Emerging Markets,Vietnam,3.12E-05
+2021-02,2021,2,Emerging Markets,Vietnam,2.59E-05
+2021-03,2021,3,Emerging Markets,Vietnam,3.29E-05
+2021-04,2021,4,Emerging Markets,Vietnam,3.03E-05
+2021-05,2021,5,Emerging Markets,Vietnam,2.49E-05
+2021-06,2021,6,Emerging Markets,Vietnam,2.04E-05
+2021-07,2021,7,Emerging Markets,Vietnam,1.78E-05
+2021-08,2021,8,Emerging Markets,Vietnam,1.74E-05
+2021-09,2021,9,Emerging Markets,Vietnam,2.01E-05
+2021-10,2021,10,Emerging Markets,Vietnam,1.93E-05
+2021-11,2021,11,Emerging Markets,Vietnam,2.30E-05
+2021-12,2021,12,Emerging Markets,Vietnam,2.83E-05
+2022-01,2022,1,Emerging Markets,Vietnam,2.53E-05
+2022-02,2022,2,Emerging Markets,Vietnam,2.20E-05
+2022-03,2022,3,Emerging Markets,Vietnam,2.90E-05
+2022-04,2022,4,Emerging Markets,Vietnam,2.84E-05
+2022-05,2022,5,Emerging Markets,Vietnam,2.04E-05
+2022-06,2022,6,Emerging Markets,Vietnam,1.84E-05
+2022-07,2022,7,Emerging Markets,Vietnam,1.85E-05
+2022-08,2022,8,Emerging Markets,Vietnam,1.84E-05
+2022-09,2022,9,Emerging Markets,Vietnam,2.10E-05
+2022-10,2022,10,Emerging Markets,Vietnam,2.22E-05
+2022-11,2022,11,Emerging Markets,Vietnam,2.23E-05
+2022-12,2022,12,Emerging Markets,Vietnam,3.12E-05
+2023-01,2023,1,Emerging Markets,Vietnam,2.74E-05
+2023-02,2023,2,Emerging Markets,Vietnam,2.56E-05
+2023-03,2023,3,Emerging Markets,Vietnam,3.86E-05
+2023-04,2023,4,Emerging Markets,Vietnam,3.81E-05
+2023-05,2023,5,Emerging Markets,Vietnam,2.69E-05
+2023-06,2023,6,Emerging Markets,Vietnam,2.54E-05
+2023-07,2023,7,Emerging Markets,Vietnam,2.05E-05
+2023-08,2023,8,Emerging Markets,Vietnam,1.95E-05
+2023-09,2023,9,Emerging Markets,Vietnam,2.07E-05
+2023-10,2023,10,Emerging Markets,Vietnam,2.23E-05
+2023-11,2023,11,Emerging Markets,Vietnam,2.40E-05
+2023-12,2023,12,Emerging Markets,Vietnam,2.45E-05
+2024-01,2024,1,Emerging Markets,Vietnam,2.01E-05
+2024-02,2024,2,Emerging Markets,Vietnam,2.37E-05
+2024-03,2024,3,Emerging Markets,Vietnam,3.00E-05
+2024-04,2024,4,Emerging Markets,Vietnam,3.27E-05
+2024-05,2024,5,Emerging Markets,Vietnam,2.44E-05
+2024-06,2024,6,Emerging Markets,Vietnam,2.08E-05
+2024-07,2024,7,Emerging Markets,Vietnam,1.90E-05
+2024-08,2024,8,Emerging Markets,Vietnam,1.93E-05
+2024-09,2024,9,Emerging Markets,Vietnam,2.05E-05
+2024-10,2024,10,Emerging Markets,Vietnam,2.40E-05
+2024-11,2024,11,Emerging Markets,Vietnam,2.66E-05
+2024-12,2024,12,Emerging Markets,Vietnam,3.16E-05
+2025-01,2025,1,Emerging Markets,Vietnam,3.11E-05
+2025-02,2025,2,Emerging Markets,Vietnam,2.25E-05
+2025-03,2025,3,Emerging Markets,Vietnam,3.69E-05
+2025-04,2025,4,Emerging Markets,Vietnam,3.25E-05
+2025-05,2025,5,Emerging Markets,Vietnam,2.49E-05
+2025-06,2025,6,Emerging Markets,Vietnam,2.01E-05
+2025-07,2025,7,Emerging Markets,Vietnam,1.96E-05
+2025-08,2025,8,Emerging Markets,Vietnam,1.92E-05
+2025-09,2025,9,Emerging Markets,Vietnam,1.95E-05
+2025-10,2025,10,Emerging Markets,Vietnam,1.81E-05
+2025-11,2025,11,Emerging Markets,Vietnam,2.68E-05
+2025-12,2025,12,Emerging Markets,Vietnam,2.51E-05
+2026-01,2026,1,Emerging Markets,Vietnam,3.02E-05
+2026-02,2026,2,Emerging Markets,Vietnam,2.21E-05
+2026-03,2026,3,Emerging Markets,Vietnam,3.04E-05
+2026-04,2026,4,Emerging Markets,Vietnam,3.70E-05
